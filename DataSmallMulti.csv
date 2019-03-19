@@ -1,0 +1,1008 @@
+year,month,date,company,track,volume_desc,volume,round
+2014,Jan,Jan 2014,VIPKID,Language Learning,300,300,Seed/Angel
+2014,Oct,Oct 2014,VIPKID,Language Learning,3185,3185,A
+2015,Oct,Oct 2015,VIPKID,Language Learning,12740,12740,B
+2016,Aug,Aug 2016,VIPKID,Language Learning,65000,65000,C
+2017,Aug,Aug 2017,VIPKID,Language Learning,136000,136000,D
+2018,Apr,Apr 2018,VIPKID,Language Learning,325000,325000,D+
+2014,Jun,Jun 2014,Zhihu,Paid Knowledge,14300,14300,B
+2015,Sep,Sep 2015,Zhihu,Paid Knowledge,35035,35035,C
+2017,Jan,Jan 2017,Zhihu,Paid Knowledge,68000,68000,D
+2018,Jul,Jul 2018,Zhihu,Paid Knowledge,183600,183600,E
+2014,Jul,Jul 2014,17zuoye,K12,13000,13000,C
+2015,Jan,Jan 2015,17zuoye,K12,63700,63700,D
+2018,Mar,Mar 2018,17zuoye,K12,162500,162500,E
+2014,Feb,Feb 2014,iTutorGroup,Language Learning,65000,65000,B
+2015,Nov,Nov 2015,iTutorGroup,Language Learning,127400,127400,C
+2014,Apr,Apr 2014,Hujiang,Language Learning,52000,52000,C
+2015,Oct,Oct 2015,Hujiang,Language Learning,100000,100000,D
+2018,Jul,Jul 2018,Hujiang,Language Learning,31900,31900,E
+2015,Oct,Oct 2015,Zuoyebang,K12,15600,15600,A
+2016,Sep,Sep 2016,Zuoyebang,K12,39000,39000,B
+2017,Aug,Aug 2017,Zuoyebang,K12,102000,102000,C
+2014,Jul,Jul 2014,Yuantiku,K12,9750,9750,C
+2015,Mar,Mar 2015,Yuantiku,K12,38220,38220,D
+2016,May,May 2016,Yuantiku,K12,26000,26000,PE
+2017,Jun,Jun 2017,Yuantiku,K12,81600,81600,E
+2014,Mar,Mar 2014,Xueba100,K12,3250,3250,A
+2015,Jun,Jun 2015,Xueba100,K12,31850,31850,B
+2016,Nov,Nov 2016,Xueba100,K12,0,31850,B+
+2017,Jan,Jan 2017,Xueba100,K12,68000,68000,C
+2014,Sep,Sep 2014,ChangingEdu,K12,1300,1300,A
+2015,May,May 2015,ChangingEdu,K12,9555,9555,B
+2015,Apr,Apr 2015,ChangingEdu,K12,0,9555,B+
+2015,Jun,Jun 2015,ChangingEdu,K12,63700,63700,C
+2016,Dec,Dec 2016,ChangingEdu,K12,12240,12240,C+
+2017,Oct,Oct 2017,ChangingEdu,K12,35750,35750,D
+2015,Jul,Jul 2015,Zhangmen,K12,2000,2000,A
+2016,Mar,Mar 2016,Zhangmen,K12,2000,2000,B
+2016,Sep,Sep 2016,Zhangmen,K12,20000,20000,C
+2017,Jul,Jul 2017,Zhangmen,K12,0,20000,C+
+2018,Jan,Jan 2018,Zhangmen,K12,78000,78000,D
+2015,Jun,Jun 2015,DaDaABC,Language Learning,2000,2000,A
+2016,Sep,Sep 2016,DaDaABC,Language Learning,20000,20000,B
+2016,Dec,Dec 2016,DaDaABC,Language Learning,20000,20000,B+
+2018,Jan,Jan 2018,DaDaABC,Language Learning,65000,65000,C
+2014,Dec,Dec 2014,Knowbox,K12,637,637,Seed/Angel
+2015,Apr,Apr 2015,Knowbox,K12,6370,6370,A
+2016,Oct,Oct 2016,Knowbox,K12,7000,7000,B
+2017,Oct,Oct 2017,Knowbox,K12,20000,20000,B+
+2018,Apr,Apr 2018,Knowbox,K12,65000,65000,C
+2015,Aug,Aug 2015,Gaosi Education Group,K12,40000,40000,B
+2017,Sep,Sep 2017,Gaosi Education Group,K12,55000,55000,C
+2014,Apr,Apr 2014,Tsingda eEDU,K12,5000,5000,A
+2014,Dec,Dec 2014,Tsingda eEDU,K12,15925,15925,B
+2015,Mar,Mar 2015,Tsingda eEDU,K12,31213,31213,C
+2016,Jan,Jan 2016,Tsingda eEDU,K12,0,31213,Undiscloused
+2014,Apr,Apr 2014,ABC360,Language Learning,800,800,Seed/Angel
+2014,Oct,Oct 2014,ABC360,Language Learning,2000,2000,A
+2016,Mar,Mar 2016,ABC360,Language Learning,7000,7000,B
+2017,Apr,Apr 2017,ABC360,Language Learning,20000,20000,B+
+2018,Jun,Jun 2018,ABC360,Language Learning,52000,52000,C
+2017,Sep,Sep 2017,Doing Now,Holistic Edu.,50000,50000,B
+2016,Sep,Sep 2016,Doing Now,Holistic Edu.,30000,30000,A
+2014,Apr,Apr 2014,WheelNet,Vocational Edu.,0,10000,A
+2014,Dec,Dec 2014,WheelNet,Vocational Edu.,16500,16500,B
+2016,Apr,Apr 2016,WheelNet,Vocational Edu.,38500,38500,C
+2016,Dec,Dec 2016,WheelNet,Vocational Edu.,10000,10000,C+
+2014,Mar,Mar 2014,Huikedu,Higher Edu.,13000,13000,A
+2015,Nov,Nov 2015,Huikedu,Higher Edu.,30000,30000,B
+2016,Oct,Oct 2016,Huikedu,Higher Edu.,0,30000,C
+2015,Mar,Mar 2015,Xiaozhan Jiaoyu,Language Learning,18473,18473,B
+2015,Dec,Dec 2015,Xiaozhan Jiaoyu,Language Learning,53508,53508,C
+2015,Mar,Mar 2015,Emerald Education,Vocational Edu.,6000,6000,A
+2015,Dec,Dec 2015,Emerald Education,Vocational Edu.,15000,15000,B
+2016,Nov,Nov 2016,Emerald Education,Vocational Edu.,20000,20000,C
+2017,Jan,Jan 2017,Emerald Education,Vocational Edu.,30000,30000,C+
+2014,May,May 2014,BOXFiSH,Language Learning,1300,1300,Seed/Angel
+2015,Apr,Apr 2015,BOXFiSH,Language Learning,7800,7800,A
+2016,Jan,Jan 2016,BOXFiSH,Language Learning,19500,19500,B
+2016,Nov,Nov 2016,BOXFiSH,Language Learning,0,19500,B+
+2018,May,May 2018,BOXFiSH,Language Learning,20000,20000,C
+2015,Mar,Mar 2015,Liulishuo,Language Learning,13000,13000,B
+2017,Jul,Jul 2017,Liulishuo,Language Learning,54400,54400,C
+2015,Sep,Sep 2015,Sundata,Edu. Informationization,11000,11000,A
+2016,Mar,Mar 2016,Sundata,Edu. Informationization,0,11000,Undiscloused
+2016,Jun,Jun 2016,Sundata,Edu. Informationization,0,11000,Undiscloused
+2018,Apr,Apr 2018,Sundata,Edu. Informationization,28100,28100,Private Placement of Share
+2016,Dec,Dec 2016,Codemao,STEAM,2000,2000,A
+2017,Nov,Nov 2017,Codemao,STEAM,12000,12000,B
+2017,May,May 2017,Codemao,STEAM,1500,1500,A+
+2018,May,May 2018,Codemao,STEAM,30000,30000,C
+2018,Jan,Jan 2018,Codemao,STEAM,0,12000,Strategic Investment
+2014,Jun,Jun 2014,Afanti,K12,1000,1000,Seed/Angel
+2014,Dec,Dec 2014,Afanti,K12,11466,11466,A
+2015,Dec,Dec 2015,Afanti,K12,38220,38220,B
+2016,Jan,Jan 2016,OneSmart International Education Group,K12,50000,50000,Pre-IPO
+2014,Aug,Aug 2014,Xing Shuai Teach ,Vocational Edu.,19500,19500,B
+2016,Apr,Apr 2016,Xing Shuai Teach ,Vocational Edu.,30000,30000,B
+2015,Dec,Dec 2015,Zhihui Shu,Higher Edu.,0,2000,A
+2016,Mar,Mar 2016,Zhihui Shu,Higher Edu.,0,10000,A+
+2016,Oct,Oct 2016,Zhihui Shu,Higher Edu.,35000,35000,B
+2014,Sep,Sep 2014,SmartStudy,Language Learning,6890,6890,A
+2016,Oct,Oct 2016,SmartStudy,Language Learning,20000,20000,B
+2017,Nov,Nov 2017,SmartStudy,Language Learning,20000,20000,B+
+2015,Jun,Jun 2015,Xstudy,K12,12740,12740,B
+2015,Jul,Jul 2015,Xstudy,K12,15288,15288,B+
+2015,Jan,Jan 2015,Xstudy,K12,2000,2000,Pre-A
+2016,Jun,Jun 2016,Xstudy,K12,12000,12000,C
+2016,Jul,Jul 2016,Weidong Group Edu,Edu. Informationization,40000,40000,A
+2018,Jul,Jul 2018,Jerry School,K12,13000,13000,A
+2016,Jan,Jan 2016,Jerry School,K12,26000,26000,Pre-A
+2015,Sep,Sep 2015,NeoBear,Early Childhood Edu.,12000,12000,A
+2016,Oct,Oct 2016,NeoBear,Early Childhood Edu.,25000,25000,B
+2016,Apr,Apr 2016,Chengzhangbao,Holistic Edu.,1000,1000,Pre-A
+2017,Jul,Jul 2017,Chengzhangbao,Holistic Edu.,5000,5000,A
+2018,Mar,Mar 2018,Chengzhangbao,Holistic Edu.,15000,15000,B
+2018,May,May 2018,Chengzhangbao,Holistic Edu.,15000,15000,B+
+2015,Jan,Jan 2015,贝斯特教育/网龙,K12,33443,33443,A
+2014,Nov,Nov 2014,Kaishu Story,Early Childhood Edu.,800,800,Pre-A
+2015,Nov,Nov 2015,Kaishu Story,Early Childhood Edu.,7200,7200,A
+2017,May,May 2017,Kaishu Story,Early Childhood Edu.,9000,9000,B
+2018,Mar,Mar 2018,Kaishu Story,Early Childhood Edu.,15600,15600,B
+2016,Feb,Feb 2016,Koolearn,Language Learning,32000,32000,Pre-IPO
+2015,Feb,Feb 2015,Genshuixue,K12,31850,31850,A
+2014,Jul,Jul 2014,51talk,Language Learning,18330,18330,C
+2015,Aug,Aug 2015,51talk,Language Learning,13000,13000,D
+2014,Jun,Jun 2014,Sanhao,K12,1300,1300,Seed/Angel
+2016,Oct,Oct 2016,Sanhao,K12,0,7500,A
+2016,Mar,Mar 2016,Sanhao,K12,7500,7500,Pre-A
+2017,Dec,Dec 2017,Sanhao,K12,15000,15000,B
+2017,Jun,Jun 2017,cshd,Vocational Edu.,30000,30000,Undiscloused
+2016,Aug,Aug 2016,Huohua,Holistic Edu.,0,6500,A
+2018,May,May 2018,Huohua,Holistic Edu.,9750,9750,B
+2018,Jun,Jun 2018,Huohua,Holistic Edu.,13000,13000,B+
+2014,Apr,Apr 2014,Huivo,Early Childhood Edu.,1300,1300,A
+2015,May,May 2015,Huivo,Early Childhood Edu.,12000,12000,B
+2016,Apr,Apr 2016,Huivo,Early Childhood Edu.,15000,15000,B+
+2016,Sep,Sep 2016,BellRobot,STEAM,8000,8000,A
+2018,Mar,Mar 2018,BellRobot,STEAM,20000,20000,B
+2014,Feb,Feb 2014,Onion Math,K12,0,800,Seed/Angel
+2016,Jun,Jun 2016,Onion Math,K12,1950,1950,A
+2015,Oct,Oct 2015,Onion Math,K12,2925,2925,A+
+2017,May,May 2017,Onion Math,K12,9700,9700,B
+2018,Feb,Feb 2018,Onion Math,K12,12000,12000,C
+2015,Jun,Jun 2015,Mingshi EDU,K12,20000,20000,B
+2017,Jul,Jul 2017,Mingshi EDU,K12,6900,6900,Undiscloused
+2015,Jan,Jan 2015,Juesheng,Others,0,6800,B
+2015,Nov,Nov 2015,Juesheng,Others,20000,20000,C
+2018,May,May 2018,Sesame Street English,Language Learning,26200,26200,Strategic Investment
+2014,Apr,Apr 2014,Mofangge,K12,0,6500,A
+2016,Jan,Jan 2016,Mofangge,K12,2000,2000,B
+2016,Nov,Nov 2016,Mofangge,K12,14800,14800,B+
+2018,Mar,Mar 2018,Mofangge,K12,0,2000,C
+2017,Jul,Jul 2017,itcast,Vocational Edu.,24700,24700,PE
+2017,Nov,Nov 2017,Alo7,Language Learning,24375,24375,D
+2015,Apr,Apr 2015,MakeBlock,STEAM,3900,3900,B
+2017,Mar,Mar 2017,MakeBlock,STEAM,20000,20000,B
+2017,Nov,Nov 2017,CC视频,Edu. SaaS,20080,20080,C
+2018,May,May 2018,运动宝贝,Early Childhood Edu.,20000,20000,Strategic Investment
+2018,Jan,Jan 2018,VIP陪练,Holistic Edu.,20000,20000,B
+2016,Nov,Nov 2016,掌通家园,Early Childhood Edu.,20000,20000,C
+2017,Dec,Dec 2017,校宝在线,Edu. SaaS,10000,10000,C
+2018,May,May 2018,校宝在线,Edu. SaaS,10000,10000,C+
+2018,Jan,Jan 2018,Find智慧钢琴,Holistic Edu.,20000,20000,A
+2015,Jul,Jul 2015,贝乐学科英语,Language Learning,20000,20000,B
+2015,Mar,Mar 2015,悠游堂,Early Childhood Edu.,20000,20000,Pre-IPO
+2018,Jan,Jan 2018,七巧国,Early Childhood Edu.,20000,20000,Seed/Angel
+2016,Dec,Dec 2016,欧美思,Edu. SaaS,5000,5000,A
+2018,Feb,Feb 2018,欧美思,Edu. SaaS,15000,15000,B
+2017,Jul,Jul 2017,瑞达法考,Vocational Edu.,19200,19200,Undiscloused
+2015,Oct,Oct 2015,学科网,K12,19110,19110,Pre-IPO
+2015,Oct,Oct 2015,The One 智能钢琴,Holistic Edu.,19110,19110,B
+2016,Sep,Sep 2016,新道科技,Higher Edu.,18900,18900,B
+2016,Jun,Jun 2016,在行（分答）,Paid Knowledge,16250,16250,A
+2016,Nov,Nov 2016,在行（分答）,Paid Knowledge,2000,2000,A+
+2016,Jun,Jun 2016,美联英语,Language Learning,17000,17000,PE
+2017,Dec,Dec 2017,东方启音,Early Childhood Edu.,16250,16250,B
+2017,Nov,Nov 2017,艺朝艺夕,Holistic Edu.,16000,16000,B
+2016,Jul,Jul 2016,海风教育Hyphen,K12,1000,1000,A
+2017,Jul,Jul 2017,海风教育Hyphen,K12,2000,2000,B
+2018,Jan,Jan 2018,海风教育Hyphen,K12,13000,13000,C
+2015,Sep,Sep 2015,乐乐课堂,K12,3185,3185,A
+2015,Jun,Jun 2015,乐乐课堂,K12,12740,12740,B
+2015,May,May 2015,请他教,K12,6950,6950,A
+2015,Jul,Jul 2015,请他教,K12,8600,8600,A+
+2014,Apr,Apr 2014,啄木鸟教育,Study Abroad Services,2500,2500,A
+2015,Sep,Sep 2015,啄木鸟教育,Study Abroad Services,12740,12740,Strategic Investment
+2015,Jul,Jul 2015,Yixue Eudcation,K12,3000,3000,Seed/Angel
+2017,Mar,Mar 2017,Yixue Eudcation,K12,12000,12000,Seed/Angel
+2018,Mar,Mar 2018,宝宝玩英语,Language Learning,15000,15000,B
+2017,Apr,Apr 2017,云学堂,Vocational Edu.,14960,14960,B
+2015,May,May 2015,美术宝,Holistic Edu.,3000,3000,A
+2016,Jan,Jan 2016,美术宝,Holistic Edu.,6600,6600,B
+2016,Sep,Sep 2016,美术宝,Holistic Edu.,5200,5200,B
+2014,Sep,Sep 2014,极客学院,Vocational Edu.,14300,14300,B
+2016,Jan,Jan 2016,老A电商学院,Vocational Edu.,14000,14000,A
+2017,Dec,Dec 2017,小小包麻麻,Early Childhood Edu.,14000,14000,B
+2016,Oct,Oct 2016,学乐云,Edu. Informationization,13600,13600,C
+2017,Aug,Aug 2017,朴新教育,K12,13600,13600,B
+2014,Dec,Dec 2014,果壳网,Others,13000,13000,C
+2018,Feb,Feb 2018,育学园,Paid Knowledge,13000,13000,C+
+2018,Mar,Mar 2018,考虫英语,Language Learning,13000,13000,C
+2014,Dec,Dec 2014,我赢职场,Vocational Edu.,3000,3000,A
+2015,Dec,Dec 2015,我赢职场,Vocational Edu.,2000,2000,Pre-B
+2016,Dec,Dec 2016,我赢职场,Vocational Edu.,8000,8000,B
+2014,Feb,Feb 2014,开课吧,Vocational Edu.,13000,13000,A
+2018,May,May 2018,小码王,STEAM,13000,13000,B
+2014,Aug,Aug 2014,超级课程表,Higher Edu.,13000,13000,B
+2014,Jul,Jul 2014,万学教育,Vocational Edu.,13000,13000,C
+2015,May,May 2015,乔布堂,Vocational Edu.,12740,12740,A
+2015,Mar,Mar 2015,星空琴行,Holistic Edu.,12740,12740,C
+2016,May,May 2016,兄弟连,Vocational Edu.,12500,12500,A
+2015,Jun,Jun 2015,学乐,K12,2000,2000,A
+2015,May,May 2015,学乐,K12,10000,10000,B
+2014,Dec,Dec 2014,学堂在线,Higher Edu.,9750,9750,A
+2015,Jul,Jul 2015,学堂在线,Higher Edu.,1760,1760,B
+2015,Jun,Jun 2015,顺顺留学,Study Abroad Services,11466,11466,A
+2015,Mar,Mar 2015,贝聊,Early Childhood Edu.,1274,1274,A
+2016,Jan,Jan 2016,贝聊,Early Childhood Edu.,10000,10000,B
+2016,Apr,Apr 2016,翼鸥教育,Edu. SaaS,3250,3250,A
+2017,Mar,Mar 2017,翼鸥教育,Edu. SaaS,8000,8000,A+
+2016,Jul,Jul 2016,阿卡索,Language Learning,3100,3100,A
+2017,Oct,Oct 2017,阿卡索,Language Learning,8000,8000,B+
+2017,Aug,Aug 2017,嗨课堂,K12,5000,5000,A
+2018,Jan,Jan 2018,嗨课堂,K12,6000,6000,A+
+2015,Jun,Jun 2015,麦淘亲子,Holistic Edu.,4000,4000,A
+2017,Feb,Feb 2017,麦淘亲子,Holistic Edu.,7000,7000,B
+2015,Nov,Nov 2015,麦子学院,Vocational Edu.,10000,10000,B
+2017,Jan,Jan 2017,千锋互联,Vocational Edu.,10000,10000,Undiscloused
+2017,Aug,Aug 2017,ACG艺术留学,Study Abroad Services,10000,10000,PE
+2017,Oct,Oct 2017,恒一文化,Vocational Edu.,10000,10000,A
+2014,Jun,Jun 2014,九龙蓝海科技,Early Childhood Edu.,10000,10000,A
+2017,Nov,Nov 2017,火火兔,Early Childhood Edu.,10000,10000,A
+2017,Dec,Dec 2017,上海易教,Edu. Informationization,10000,10000,A
+2018,Jun,Jun 2018,神奇科学堂,STEAM,10000,10000,Pre-A
+2016,Jul,Jul 2016,趣学车,Vocational Edu.,10000,10000,A
+2016,Oct,Oct 2016,51CTO,Vocational Edu.,10000,10000,B
+2017,Oct,Oct 2017,极课大数据,Edu. Informationization,10000,10000,B
+2018,Feb,Feb 2018,凯斯国际幼儿园,Early Childhood Edu.,10000,10000,A
+2015,Nov,Nov 2015,智慧树,Early Childhood Edu.,10000,10000,B
+2017,Feb,Feb 2017,荷马教育,Holistic Edu.,10000,10000,A
+2018,Feb,Feb 2018,新世相,Paid Knowledge,10000,10000,B
+2014,Mar,Mar 2014,学尔森教育,Vocational Edu.,10000,10000,A
+2018,Apr,Apr 2018,Snapask,K12,9750,9750,A+
+2018,Feb,Feb 2018,站酷,Vocational Edu.,9750,9750,B+
+2015,Jun,Jun 2015,诺贝儿教育,Early Childhood Edu.,2000,2000,A
+2016,Oct,Oct 2016,诺贝儿教育,Early Childhood Edu.,7500,7500,B
+2016,Jan,Jan 2016,微语言,Language Learning,1000,1000,Pre-A
+2017,Feb,Feb 2017,微语言,Language Learning,5000,5000,A
+2017,Aug,Aug 2017,微语言,Language Learning,3000,3000,A+
+2017,Jul,Jul 2017,SIA国际艺术教育,Study Abroad Services,5000,5000,A
+2018,Jan,Jan 2018,SIA国际艺术教育,Study Abroad Services,4000,4000,A+
+2017,Jun,Jun 2017,咿啦看书,Early Childhood Edu.,5000,5000,A
+2018,Jan,Jan 2018,咿啦看书,Early Childhood Edu.,4000,4000,A+
+2016,Sep,Sep 2016,考拉阅读/享阅教育,K12,400,400,Seed/Angel
+2017,Dec,Dec 2017,考拉阅读/享阅教育,K12,5200,5200,A
+2017,Aug,Aug 2017,考拉阅读/享阅教育,K12,3000,3000,Pre-A
+2018,Jun,Jun 2018,VIPCODE编程,STEAM,8500,8500,A
+2018,Jan,Jan 2018,火星时代,Vocational Edu.,8415,8415,Strategic Investment
+2015,Apr,Apr 2015,北风网,Vocational Edu.,6400,6400,B
+2018,Jan,Jan 2018,北风网,Vocational Edu.,2000,2000,B+
+2016,May,May 2016,课栈网,Paid Knowledge,8000,8000,A
+2016,Sep,Sep 2016,能力天空,Edu. SaaS,8000,8000,C
+2017,May,May 2017,有养传媒,Paid Knowledge,2000,2000,Pre-A
+2018,Mar,Mar 2018,有养传媒,Paid Knowledge,6000,6000,A
+2018,Jun,Jun 2018,皮皮鱼少儿英语,Language Learning,8000,8000,Pre-A
+2017,Oct,Oct 2017,平行线教育,K12,8000,8000,A
+2014,Jun,Jun 2014,世纪明德教育,Study Abroad Services,0,2000,A
+2015,Jan,Jan 2015,世纪明德教育,Study Abroad Services,0,2000,B
+2018,May,May 2018,世纪明德教育,Study Abroad Services,3724,3724,Private Placement of Share
+2017,Mar,Mar 2017,纽诺育儿,Early Childhood Edu.,1000,1000,Pre-A
+2018,Apr,Apr 2018,纽诺育儿,Early Childhood Edu.,6500,6500,A
+2015,Jan,Jan 2015,老师好-师全师美,K12,0,1000,A
+2015,Apr,Apr 2015,老师好-师全师美,K12,6370,6370,A
+2017,Jul,Jul 2017,婷婷姐姐,Early Childhood Edu.,2200,2200,Seed/Angel
+2018,Jun,Jun 2018,婷婷姐姐,Early Childhood Edu.,5000,5000,A
+2014,Oct,Oct 2014,寓乐湾,STEAM,1000,1000,A
+2015,Jul,Jul 2015,寓乐湾,STEAM,2000,2000,B
+2016,Apr,Apr 2016,寓乐湾,STEAM,2000,2000,A
+2017,May,May 2017,寓乐湾,STEAM,2000,2000,B
+2015,Jun,Jun 2015,选师无忧,K12,1000,1000,A
+2016,May,May 2016,选师无忧,K12,6000,6000,A
+2017,Sep,Sep 2017,YBDL,Holistic Edu.,2000,2000,A
+2018,Mar,Mar 2018,YBDL,Holistic Edu.,5000,5000,A+
+2018,Apr,Apr 2018,洛克公园,Holistic Edu.,7000,7000,B+
+2014,Aug,Aug 2014,智课网,Language Learning,6890,6890,A
+2017,Apr,Apr 2017,荔枝微课,Paid Knowledge,6800,6800,A
+2016,Sep,Sep 2016,乐思塾,Early Childhood Edu.,6600,6600,B
+2016,Jan,Jan 2016,唯医网,Vocational Edu.,6500,6500,A
+2018,Jun,Jun 2018,土豆雅思,Language Learning,6500,6500,Pre-A
+2014,Feb,Feb 2014,真朴教育,Holistic Edu.,6500,6500,A
+2015,Sep,Sep 2015,学信科技,Edu. Informationization,6500,6500,A
+2018,May,May 2018,溢米辅导,K12,6500,6500,B
+2018,May,May 2018,彩贝壳,Early Childhood Edu.,6500,6500,A
+2015,Apr,Apr 2015,凡学教育,Early Childhood Edu.,6370,6370,A
+2018,Feb,Feb 2018,潭州教育,Vocational Edu.,6300,6300,A
+2015,Nov,Nov 2015,狸米学习,K12,1274,1274,Seed/Angel
+2016,Dec,Dec 2016,狸米学习,K12,5000,5000,A
+2015,May,May 2015,Hive游学,Study Abroad Services,4141,4141,A
+2015,Jul,Jul 2015,Hive游学,Study Abroad Services,1911,1911,Seed/Angel
+2018,Apr,Apr 2018,乐乐趣,Early Childhood Edu.,6006,6006,Private Placement of Share
+2017,Jul,Jul 2017,袋鼠麻麻 / 铭诗教育,Early Childhood Edu.,2000,2000,Pre-A
+2018,Jun,Jun 2018,袋鼠麻麻 / 铭诗教育,Early Childhood Edu.,2000,2000,A
+2018,May,May 2018,袋鼠麻麻 / 铭诗教育,Early Childhood Edu.,0,2000,A
+2017,Jan,Jan 2017,十点读书,Paid Knowledge,6000,6000,A
+2017,Aug,Aug 2017,图零直播,Vocational Edu.,6000,6000,B
+2017,Mar,Mar 2017,顶上英语,Language Learning,2000,2000,A
+2018,May,May 2018,顶上英语,Language Learning,2000,2000,A+
+2018,Apr,Apr 2018,顶上英语,Language Learning,0,2000,B
+2018,Apr,Apr 2018,美世教育,Study Abroad Services,6000,6000,A
+2016,Jan,Jan 2016,致优教育,K12,6000,6000,A
+2018,Apr,Apr 2018,百家云,Edu. SaaS,6000,6000,A+
+2017,Mar,Mar 2017,小牛顿,Early Childhood Edu.,6000,6000,Pre-A
+2017,Jul,Jul 2017,企鹅童话,Early Childhood Edu.,2000,2000,Pre-A
+2018,May,May 2018,企鹅童话,Early Childhood Edu.,4000,4000,A
+2017,Jan,Jan 2017,北教文化,K12,5910,5910,PE
+2018,Jan,Jan 2018,迈格森国际教育,Language Learning,5635,5635,Seed/Angel
+2017,Mar,Mar 2017,蓝帕科技,Edu. Informationization,5400,5400,A
+2018,Mar,Mar 2018,彩虹蜗牛,Holistic Edu.,5100,5100,A
+2016,Sep,Sep 2016,时代智囊,K12,5000,5000,A
+2018,May,May 2018,原醉chic,Paid Knowledge,5000,5000,B
+2016,Jul,Jul 2016,异乡好居,Study Abroad Services,5000,5000,A
+2016,Feb,Feb 2016,远景同程,Edu. Informationization,5000,5000,A
+2016,Nov,Nov 2016,金英杰教育,Vocational Edu.,5000,5000,B
+2015,Apr,Apr 2015,360教育集团,Study Abroad Services,5000,5000,A
+2017,Aug,Aug 2017,魔力耳朵,Language Learning,4000,4000,A
+2017,Mar,Mar 2017,魔力耳朵,Language Learning,1000,1000,Seed/Angel
+2017,Jan,Jan 2017,南京储君教育,Early Childhood Edu.,5000,5000,Undiscloused
+2018,Mar,Mar 2018,绿橙幼儿园,Early Childhood Edu.,5000,5000,A
+2017,Jul,Jul 2017,UniCareer,Vocational Edu.,5000,5000,B
+2018,Mar,Mar 2018,西瓜创客,STEAM,5000,5000,A
+2017,Jul,Jul 2017,未来大师,Holistic Edu.,5000,5000,Seed/Angel
+2016,May,May 2016,财金通,Vocational Edu.,4767,4767,A
+2018,Apr,Apr 2018,校管家,Edu. SaaS,4600,4600,A
+2018,May,May 2018,光华教育,K12,4560,4560,Private Placement of Share
+2015,Jul,Jul 2015,顶你学堂TopU-过来人教育,Higher Edu.,4500,4500,B
+2015,Jun,Jun 2015,智园控股-创课Tronclass,Higher Edu.,2218,2218,A
+2015,Aug,Aug 2015,智园控股-创课Tronclass,Higher Edu.,2218,2218,B
+2016,Jul,Jul 2016,轻课,Language Learning,1100,1100,Pre-A
+2017,Jul,Jul 2017,轻课,Language Learning,3300,3300,A
+2017,Jun,Jun 2017,诺博教育,Early Childhood Edu.,4290,4290,A
+2015,Nov,Nov 2015,一米辅导,K12,1000,1000,Seed/Angel
+2017,Mar,Mar 2017,一米辅导,K12,3000,3000,Undiscloused
+2017,Jan,Jan 2017,先声教育,Language Learning,2000,2000,Pre-A
+2018,Mar,Mar 2018,先声教育,Language Learning,2000,2000,A
+2015,Jan,Jan 2015,易题库,K12,2000,2000,A
+2015,Jun,Jun 2015,易题库,K12,2000,2000,A
+2017,Jul,Jul 2017,晓羊教育,Edu. Informationization,2000,2000,A+
+2018,May,May 2018,晓羊教育,Edu. Informationization,2000,2000,A+
+2016,May,May 2016,知鸟游学,Study Abroad Services,2000,2000,A
+2017,Feb,Feb 2017,知鸟游学,Study Abroad Services,2000,2000,Undiscloused
+2017,May,May 2017,百通世纪,Vocational Edu.,2000,2000,Pre-A
+2018,May,May 2018,百通世纪,Vocational Edu.,2000,2000,A
+2015,May,May 2015,易观企业教育,Vocational Edu.,4000,4000,A
+2015,May,May 2015,宝宝巴士Baby Bus,Early Childhood Edu.,4000,4000,B
+2014,Dec,Dec 2014,麦可在线,Early Childhood Edu.,4000,4000,Undiscloused
+2016,Sep,Sep 2016,myOffer,Study Abroad Services,2000,2000,A
+2017,Nov,Nov 2017,myOffer,Study Abroad Services,2000,2000,A+
+2017,Apr,Apr 2017,飞博教育,Language Learning,2000,2000,A+
+2018,May,May 2018,飞博教育,Language Learning,2000,2000,Strategic Investment
+2015,May,May 2015,容艺教育,Vocational Edu.,2000,2000,Strategic Investment
+2016,Dec,Dec 2016,容艺教育,Vocational Edu.,2000,2000,B
+2017,Aug,Aug 2017,西普教育,Higher Edu.,4000,4000,PE
+2014,Oct,Oct 2014,计蒜客,Vocational Edu.,2000,2000,Pre-A
+2018,Jun,Jun 2018,计蒜客,Vocational Edu.,2000,2000,B
+2016,May,May 2016,中国教育在线,Paid Knowledge,3840,3840,A
+2015,May,May 2015,BoniO（中国台湾）,K12,3822,3822,Strategic Investment
+2016,Sep,Sep 2016,格如灵,Edu. Informationization,600,600,Seed/Angel
+2017,May,May 2017,格如灵,Edu. Informationization,1000,1000,Pre-A
+2018,May,May 2018,格如灵,Edu. Informationization,2000,2000,A
+2018,Mar,Mar 2018,起航股份,Vocational Edu.,3528,3528,Private Placement of Share
+2018,Apr,Apr 2018,外教易教育,Language Learning,3000,3000,Pre-A
+2018,Mar,Mar 2018,外教易教育,Language Learning,500,500,Seed/Angel
+2016,Dec,Dec 2016,青橙创客教育,STEAM,1000,1000,Pre-A
+2018,Apr,Apr 2018,青橙创客教育,STEAM,2400,2400,A
+2018,Jun,Jun 2018,育星教育,Holistic Edu.,3311.45,3311.45,A
+2015,Jun,Jun 2015,wisdom garden,Higher Edu.,3300,3300,A
+2016,Mar,Mar 2016,小知科技,K12,3250,3250,Seed/Angel
+2014,Nov,Nov 2014,大家汇,Edu. Informationization,3250,3250,A
+2016,Apr,Apr 2016,Finger,Holistic Edu.,3250,3250,A
+2014,Mar,Mar 2014,快乐学,K12,3250,3250,A
+2016,Jun,Jun 2016,申请方,Higher Edu.,3250,3250,A
+2017,Jan,Jan 2017,火星人俱乐部,STEAM,2000,2000,A
+2017,Nov,Nov 2017,火星人俱乐部,STEAM,200,200,PE
+2018,Jun,Jun 2018,火星人俱乐部,STEAM,1000,1000,A+
+2015,Jul,Jul 2015,看娃娃,Early Childhood Edu.,3000,3000,Pre-A
+2015,Jul,Jul 2015,看娃娃,Early Childhood Edu.,200,200,Seed/Angel
+2015,Aug,Aug 2015,少年商学院,Holistic Edu.,200,200,Pre-A
+2018,Apr,Apr 2018,少年商学院,Holistic Edu.,3000,3000,A
+2015,Aug,Aug 2015,画啦啦少儿美术课堂,Holistic Edu.,200,200,Seed/Angel
+2017,Aug,Aug 2017,画啦啦少儿美术课堂,Holistic Edu.,1000,1000,A
+2018,Jun,Jun 2018,画啦啦少儿美术课堂,Holistic Edu.,2000,2000,A+
+2016,Jul,Jul 2016,职业蛙,Vocational Edu.,1200,1200,A
+2017,May,May 2017,职业蛙,Vocational Edu.,2000,2000,B
+2015,Jun,Jun 2015,卓识成就,Holistic Edu.,3185,3185,Seed/Angel
+2016,Apr,Apr 2016,SK皇家少儿英语,Language Learning,3000,3000,A
+2016,Feb,Feb 2016,北美留学生日报,Study Abroad Services,1000,1000,Pre-A
+2017,Nov,Nov 2017,北美留学生日报,Study Abroad Services,2000,2000,A
+2014,Oct,Oct 2014,山姆大叔少儿英语,Language Learning,3000,3000,Undiscloused
+2016,Jul,Jul 2016,牛客网,Vocational Edu.,1000,1000,A
+2018,Mar,Mar 2018,牛客网,Vocational Edu.,2000,2000,A
+2015,Nov,Nov 2015,童伴教育,Early Childhood Edu.,1000,1000,A
+2015,Dec,Dec 2015,童伴教育,Early Childhood Edu.,2000,2000,A
+2016,Dec,Dec 2016,睿聚教育,Vocational Edu.,3000,3000,A
+2018,Apr,Apr 2018,工程师爸爸,Early Childhood Edu.,3000,3000,B
+2018,May,May 2018,科学队长,STEAM,3000,3000,A
+2018,Feb,Feb 2018,青岛培诺教育,Study Abroad Services,3000,3000,Private Placement of Share
+2015,Jul,Jul 2015,动吧体育,Holistic Edu.,3000,3000,A
+2017,Dec,Dec 2017,高徒教育,K12,3000,3000,Pre-A
+2016,Sep,Sep 2016,课外喵,K12,3000,3000,A
+2018,Jun,Jun 2018,鲸打卡,Paid Knowledge,2000,2000,A
+2018,Apr,Apr 2018,鲸打卡,Paid Knowledge,1000,1000,Pre-A
+2014,Aug,Aug 2014,跨考锐职,Vocational Edu.,3000,3000,Undiscloused
+2016,Oct,Oct 2016,三节课,Vocational Edu.,1000,1000,Pre-A
+2018,Mar,Mar 2018,三节课,Vocational Edu.,2000,2000,A
+2016,Oct,Oct 2016,夏加儿,Holistic Edu.,2000,2000,A
+2017,Jan,Jan 2017,夏加儿,Holistic Edu.,1000,1000,A+
+2015,May,May 2015,能动英语,Language Learning,3000,3000,Strategic Investment
+2015,Jun,Jun 2015,名师宝,K12,3000,3000,Seed/Angel
+2017,Sep,Sep 2017,微视酷,Edu. Informationization,3000,3000,A
+2018,Apr,Apr 2018,超优教育,K12,3000,3000,A
+2017,Aug,Aug 2017,方圆众合教育,Vocational Edu.,3000,3000,A
+2017,Feb,Feb 2017,慕华尚测,K12,3000,3000,Undiscloused
+2016,May,May 2016,壹医考,Vocational Edu.,900,900,A
+2016,Dec,Dec 2016,壹医考,Vocational Edu.,2000,2000,A
+2016,Dec,Dec 2016,多乐小熊,Early Childhood Edu.,0,800,Seed/Angel
+2018,Apr,Apr 2018,多乐小熊,Early Childhood Edu.,2000,2000,Strategic Investment
+2014,Dec,Dec 2014,叽里呱啦,Language Learning,0,800,Undiscloused
+2016,Apr,Apr 2016,叽里呱啦,Language Learning,2000,2000,A
+2014,Oct,Oct 2014,鲨鱼公园,STEAM,0,800,Undiscloused
+2016,Mar,Mar 2016,鲨鱼公园,STEAM,2000,2000,A
+2015,Jul,Jul 2015,嘿哈科技,Early Childhood Edu.,0,800,Seed/Angel
+2016,May,May 2016,嘿哈科技,Early Childhood Edu.,2000,2000,A
+2018,Jun,Jun 2018,闪闪课堂,Early Childhood Edu.,2800,2800,A+
+2014,Apr,Apr 2014,乐博乐博机器人,STEAM,1000,1000,Pre-A
+2015,Apr,Apr 2015,乐博乐博机器人,STEAM,1800,1800,Strategic Investment
+2018,Jan,Jan 2018,海伦七彩,Holistic Edu.,2636,2636,Strategic Investment
+2018,Jun,Jun 2018,园钉,Edu. Informationization,2000,2000,A
+2018,Jan,Jan 2018,园钉,Edu. Informationization,600,600,Seed/Angel
+2015,Sep,Sep 2015,乐学高考,K12,2548,2548,Seed/Angel
+2018,Jun,Jun 2018,微课之家,Edu. Informationization,2500,2500,Pre-A
+2015,Sep,Sep 2015,起点学院,Vocational Edu.,200,200,Seed/Angel
+2017,Jul,Jul 2017,起点学院,Vocational Edu.,2250,2250,A
+2015,Jun,Jun 2015,校讯通/河北皇典,K12,2450,2450,A
+2016,Apr,Apr 2016,鹦鹉螺,K12,2400,2400,A
+2017,Aug,Aug 2017,读伴儿,Language Learning,2400,2400,Pre-A
+2016,Nov,Nov 2016,希嘉教育,Higher Edu.,2400,2400,Strategic Investment
+2015,Aug,Aug 2015,皮影客,Holistic Edu.,0,680,Seed/Angel
+2017,Jul,Jul 2017,皮影客,Holistic Edu.,1700,1700,A
+2015,Jan,Jan 2015,嘿设汇 / 迅牛科技,Vocational Edu.,0,800,Pre-A
+2017,Feb,Feb 2017,嘿设汇 / 迅牛科技,Vocational Edu.,550,550,A
+2017,Aug,Aug 2017,嘿设汇 / 迅牛科技,Vocational Edu.,1000,1000,A
+2015,Jun,Jun 2015,童游,Study Abroad Services,1274,1274,Seed/Angel
+2016,Sep,Sep 2016,童游,Study Abroad Services,1000,1000,Pre-A
+2016,Aug,Aug 2016,玩创Lab,STEAM,702,702,Seed/Angel
+2018,Mar,Mar 2018,玩创Lab,STEAM,1500,1500,Pre-A
+2017,Aug,Aug 2017,极客晨星,STEAM,200,200,Pre-A
+2018,Jan,Jan 2018,极客晨星,STEAM,2000,2000,A
+2016,Oct,Oct 2016,铂略咨询,Vocational Edu.,2200,2200,A
+2015,Sep,Sep 2015,幼师口袋,Early Childhood Edu.,200,200,Seed/Angel
+2017,Jun,Jun 2017,幼师口袋,Early Childhood Edu.,2000,2000,Undiscloused
+2015,Aug,Aug 2015,音乐笔记-银河润泰,Holistic Edu.,200,200,Seed/Angel
+2017,Oct,Oct 2017,音乐笔记-银河润泰,Holistic Edu.,2000,2000,A
+2016,Nov,Nov 2016,光量子,K12,2040,2040,Seed/Angel
+2018,May,May 2018,志诚教育,K12,2035,2035,Private Placement of Share
+2016,Mar,Mar 2016,课观教育,Vocational Edu.,20,20,Seed/Angel
+2018,Apr,Apr 2018,课观教育,Vocational Edu.,2000,2000,Seed/Angel
+2018,Apr,Apr 2018,中安华邦,Holistic Edu.,2008,2008,Private Placement of Share
+2016,Dec,Dec 2016,学音悦,Holistic Edu.,2000,2000,Pre-A
+2017,Apr,Apr 2017,云种养,Vocational Edu.,2000,2000,Pre-A
+2018,Jun,Jun 2018,优贝乐,STEAM,2000,2000,Seed/Angel
+2018,Jan,Jan 2018,斯达营地教育,Study Abroad Services,2000,2000,Pre-A
+2015,Jun,Jun 2015,学吧课堂,K12,2000,2000,Pre-A
+2017,Aug,Aug 2017,叮当派/巴黎信息,Early Childhood Edu.,2000,2000,Pre-A
+2015,Jun,Jun 2015,爱预科,Study Abroad Services,2000,2000,Seed/Angel
+2017,Oct,Oct 2017,腾跃校长,Vocational Edu.,2000,2000,A+
+2014,Jul,Jul 2014,孩子学啥,Early Childhood Edu.,2000,2000,A
+2018,May,May 2018,天天学农,Vocational Edu.,2000,2000,Pre-A
+2017,Sep,Sep 2017,职行力,Vocational Edu.,2000,2000,A
+2014,Nov,Nov 2014,铁皮人科技,Early Childhood Edu.,2000,2000,A
+2017,Jul,Jul 2017,贝拉教育,Study Abroad Services,2000,2000,A
+2015,Jun,Jun 2015,宝贝全计划,Early Childhood Edu.,2000,2000,B
+2015,Jun,Jun 2015,一米智联,K12,2000,2000,A
+2016,May,May 2016,保利威视,Edu. SaaS,2000,2000,Pre-A
+2016,Sep,Sep 2016,凹凸教育,K12,2000,2000,A
+2018,May,May 2018,童王星,STEAM,2000,2000,Strategic Investment
+2014,Aug,Aug 2014,优择世通,Study Abroad Services,2000,2000,A
+2018,Feb,Feb 2018,金色雨林,Others,2000,2000,A
+2018,May,May 2018,摩登大自然,Holistic Edu.,2000,2000,Pre-A
+2017,Mar,Mar 2017,东方爱婴,Early Childhood Edu.,2000,2000,Undiscloused
+2017,Feb,Feb 2017,掌上大学,Higher Edu.,2000,2000,Undiscloused
+2017,Feb,Feb 2017,尚德机构,Vocational Edu.,2000,2000,C
+2018,May,May 2018,智豆,Vocational Edu.,2000,2000,Seed/Angel
+2018,Mar,Mar 2018,兔比兔教育,Others,2000,2000,Pre-A
+2018,Feb,Feb 2018,集思学院,Vocational Edu.,2000,2000,Pre-A
+2018,Mar,Mar 2018,瓦力工厂,STEAM,2000,2000,A
+2018,Mar,Mar 2018,费米科学,STEAM,2000,2000,Pre-A
+2014,Aug,Aug 2014,东方华尔,Vocational Edu.,2000,2000,A
+2017,Feb,Feb 2017,腰果公考,Vocational Edu.,2000,2000,Undiscloused
+2015,Jun,Jun 2015,尚课无忧,Holistic Edu.,2000,2000,Seed/Angel
+2017,Aug,Aug 2017,融聚邻里（融聚教育）,Holistic Edu.,2000,2000,A
+2017,Jul,Jul 2017,课窝教育,Language Learning,2000,2000,A
+2015,Nov,Nov 2015,爱早教,Early Childhood Edu.,2000,2000,A
+2018,Jan,Jan 2018,万域芳菲,Holistic Edu.,2000,2000,Seed/Angel
+2017,Mar,Mar 2017,巨石达阵,Holistic Edu.,2000,2000,A
+2018,Apr,Apr 2018,微谷中国,Vocational Edu.,2000,2000,A
+2015,Nov,Nov 2015,优才学院,Vocational Edu.,2000,2000,A
+2018,Jan,Jan 2018,清帆远航,Others,2000,2000,Strategic Investment
+2016,Sep,Sep 2016,贝瓦商务咨询,Study Abroad Services,2000,2000,A
+2018,Mar,Mar 2018,ACEE思式国际教育,Study Abroad Services,2000,2000,Pre-A
+2017,Nov,Nov 2017,编玩编学,STEAM,2000,2000,Pre-A
+2015,Oct,Oct 2015,微学-辅导圈,K12,2000,2000,A
+2017,Jun,Jun 2017,云朵课堂,Edu. SaaS,2000,2000,A
+2015,Jun,Jun 2015,口语100,Language Learning,2000,2000,B
+2014,May,May 2014,好学教育,Vocational Edu.,2000,2000,B
+2017,Sep,Sep 2017,韦林文化,Language Learning,2000,2000,Pre-A
+2018,May,May 2018,牛牛成长,Holistic Edu.,2000,2000,Pre-A
+2016,Jun,Jun 2016,KeeKo,Early Childhood Edu.,2000,2000,Pre-A
+2017,Jan,Jan 2017,书香源教育,K12,2000,2000,Undiscloused
+2017,Aug,Aug 2017,都市鼎点,Early Childhood Edu.,2000,2000,PE
+2015,Nov,Nov 2015,欢拓科技,Edu. SaaS,2000,2000,A
+2018,May,May 2018,文启优思,K12,2000,2000,A
+2018,Mar,Mar 2018,学邦技术,Edu. SaaS,2000,2000,Strategic Investment
+2018,May,May 2018,快乐种子,STEAM,2000,2000,Pre-A
+2017,Aug,Aug 2017,乐智机器人,STEAM,2000,2000,Pre-A
+2018,Mar,Mar 2018,舞邦,Vocational Edu.,2000,2000,A
+2017,Apr,Apr 2017,理优1对1,K12,2000,2000,A
+2017,Nov,Nov 2017,兰博文体育,Holistic Edu.,2000,2000,Pre-A
+2015,Jun,Jun 2015,凌声芯语音,Edu. Informationization,2000,2000,A
+2017,Sep,Sep 2017,蓝墨科技,Higher Edu.,2000,2000,A
+2016,Mar,Mar 2016,严师书院,K12,2000,2000,A
+2015,Jun,Jun 2015,答疑君,K12,2000,2000,Pre-A
+2016,Dec,Dec 2016,辅导君,K12,2000,2000,A
+2018,May,May 2018,Dr.S赛先生,STEAM,2000,2000,Seed/Angel
+2018,Feb,Feb 2018,辅仁淑凡,Others,2000,2000,A
+2016,Nov,Nov 2016,蓝铅笔,Holistic Edu.,2000,2000,A
+2018,Apr,Apr 2018,码高机器人,STEAM,2000,2000,Pre-A
+2015,Jun,Jun 2015,小伴龙,Early Childhood Edu.,2000,2000,B
+2016,Dec,Dec 2016,易方科教,STEAM,2000,2000,Pre-A
+2017,Apr,Apr 2017,小逗网络,Higher Edu.,2000,2000,Pre-A
+2015,Nov,Nov 2015,贝美互动,Early Childhood Edu.,2000,2000,Pre-A
+2015,Nov,Nov 2015,小酱油,Higher Edu.,2000,2000,Pre-A
+2017,Feb,Feb 2017, CourseIn 有教未来,Language Learning,2000,2000,Pre-A
+2017,Jul,Jul 2017,小码教育(小码王) ,STEAM,2000,2000,A
+2017,Jun,Jun 2017,咔哒故事,Early Childhood Edu.,2000,2000,Pre-A
+2018,Jun,Jun 2018,蓝橡树,Study Abroad Services,2000,2000,Pre-A
+2018,Apr,Apr 2018,优才创智,Vocational Edu.,2000,2000,B
+2016,Jul,Jul 2016,朗播网,Language Learning,2000,2000,A
+2017,Oct,Oct 2017,优儿学堂,Early Childhood Edu.,2000,2000,A
+2018,Apr,Apr 2018,小牛教育,Edu. Informationization,2000,2000,A
+2017,Dec,Dec 2017,实习僧,Vocational Edu.,2000,2000,A+
+2017,Jul,Jul 2017,小象学院(小象科技) ,Vocational Edu.,2000,2000,Pre-A
+2018,May,May 2018,世纪海航,Edu. Informationization,2000,2000,A
+2018,Mar,Mar 2018,朗恩儿童美语,Language Learning,2000,2000,Seed/Angel
+2017,Mar,Mar 2017,梦想之巅,Holistic Edu.,2000,2000,A
+2017,Dec,Dec 2017,朗鹰教育,Language Learning,2000,2000,A
+2017,Jun,Jun 2017,创而新,Edu. Informationization,2000,2000,A
+2018,May,May 2018,超竞教育,Vocational Edu.,2000,2000,Seed/Angel
+2017,Dec,Dec 2017,嘉宾传媒,Vocational Edu.,2000,2000,Pre-A
+2016,Apr,Apr 2016,朵儿网,Early Childhood Edu.,2000,2000,B
+2018,Mar,Mar 2018,汉翔书法,Holistic Edu.,2000,2000,A+
+2014,Jul,Jul 2014,“鹦鹉螺”云教室,Edu. Informationization,2000,2000,A
+2017,Nov,Nov 2017,好动网球,Holistic Edu.,2000,2000,A
+2018,Mar,Mar 2018,深创学院,Vocational Edu.,2000,2000,Strategic Investment
+2015,Jun,Jun 2015,铂略财务培训,Vocational Edu.,2000,2000,Seed/Angel
+2018,May,May 2018,幻尔科技,STEAM,2000,2000,Seed/Angel
+2016,Aug,Aug 2016,Edusoho,Edu. SaaS,2000,2000,A
+2016,Aug,Aug 2016,会计乐,Vocational Edu.,2000,2000,A
+2015,Feb,Feb 2015,驾考团,Vocational Edu.,2000,2000,A
+2017,Dec,Dec 2017,启蒙听听,Early Childhood Edu.,2000,2000,Pre-A
+2017,Feb,Feb 2017,视感科技,Holistic Edu.,2000,2000,Undiscloused
+2018,Apr,Apr 2018,sinostage 舞邦,Holistic Edu.,2000,2000,A
+2017,Dec,Dec 2017,博沃思教育,Holistic Edu.,2000,2000,A
+2014,Aug,Aug 2014,GTA国泰安,Edu. Informationization,2000,2000,A
+2017,Dec,Dec 2017,傲梦少儿编程,STEAM,2000,2000,A
+2018,Feb,Feb 2018,匠驴智能作业狗,K12,2000,2000,Pre-A
+2018,Mar,Mar 2018,道远课堂,K12,2000,2000,A
+2016,Sep,Sep 2016,大咖说,Vocational Edu.,2000,2000,Pre-A
+2018,May,May 2018,积木宝贝,Early Childhood Edu.,2000,2000,Seed/Angel
+2018,Mar,Mar 2018,黄埔在线,Holistic Edu.,2000,2000,Strategic Investment
+2018,Mar,Mar 2018,积云教育,Vocational Edu.,2000,2000,A
+2017,Jan,Jan 2017,白塔岭,Holistic Edu.,2000,2000,A
+2017,May,May 2017,番茄田艺术,Holistic Edu.,2000,2000,A
+2016,Dec,Dec 2016,青青部落,Study Abroad Services,2000,2000,Pre-A
+2017,Sep,Sep 2017,新舟教育,K12,2000,2000,A
+2018,Jan,Jan 2018,SKT思珂特教育,Study Abroad Services,2000,2000,Pre-A
+2015,Oct,Oct 2015,北京趣乐,Holistic Edu.,2000,2000,A
+2018,Apr,Apr 2018,百年育才,K12,2000,2000,Private Placement of Share
+2015,Nov,Nov 2015,星天乐园,Early Childhood Edu.,2000,2000,Pre-A
+2017,Jul,Jul 2017,秦学教育,K12,2000,2000,A
+2017,Jun,Jun 2017,VR小伴马,Early Childhood Edu.,2000,2000,Pre-A
+2017,May,May 2017,FaceThink,Paid Knowledge,2000,2000,Pre-A
+2017,Dec,Dec 2017,乐恩教育,K12,2000,2000,A
+2017,Aug,Aug 2017,乐斯教育,Holistic Edu.,2000,2000,Seed/Angel
+2018,Jun,Jun 2018,卖家成长网,Vocational Edu.,2000,2000,A
+2016,Jun,Jun 2016,italki,Language Learning,1950,1950,A
+2014,Jun,Jun 2014,学习宝,K12,1950,1950,A
+2014,Aug,Aug 2014,LTG,Language Learning,1950,1950,A
+2016,Jan,Jan 2016,牛班网,Holistic Edu.,1820,1820,A
+2017,Jun,Jun 2017,录趣,K12,300,300,Seed/Angel
+2018,Jun,Jun 2018,录趣,K12,1500,1500,A
+2017,Feb,Feb 2017,千聊,Paid Knowledge,800,800,A+
+2017,Oct,Oct 2017,千聊,Paid Knowledge,1000,1000,A+
+2017,Mar,Mar 2017,柳橙网,Study Abroad Services,1784,1784,PE
+2014,Nov,Nov 2014,托福easy姐,Language Learning,0,500,Seed/Angel
+2015,Apr,Apr 2015,托福easy姐,Language Learning,1274,1274,Seed/Angel
+2018,Apr,Apr 2018,妙小程,STEAM,1600,1600,Pre-A
+2016,Jul,Jul 2016,知子花,Paid Knowledge,1500,1500,Pre-A
+2016,Sep,Sep 2016,NOBOOK,K12,1500,1500,A
+2016,Mar,Mar 2016,腾跃校长社区,Vocational Edu.,1500,1500,A
+2018,May,May 2018,游道篮球,Holistic Edu.,1500,1500,Pre-A
+2018,Jan,Jan 2018,德拉学院,STEAM,1500,1500,A
+2018,Apr,Apr 2018,云海螺英语,Language Learning,1500,1500,Pre-A
+2016,Jul,Jul 2016,Wake瑜伽,Holistic Edu.,1500,1500,Pre-A
+2016,Apr,Apr 2016,早道网校,Language Learning,1500,1500,A
+2017,May,May 2017,东电微校,Edu. Informationization,1500,1500,A
+2017,Dec,Dec 2017,领世培优,K12,1500,1500,A
+2017,Sep,Sep 2017,十牛校园,Edu. Informationization,1500,1500,Pre-A
+2017,May,May 2017,瘦课网,Edu. Informationization,1500,1500,A
+2017,May,May 2017,嗨课,Paid Knowledge,1500,1500,Pre-A
+2018,Apr,Apr 2018,医百科技,Vocational Edu.,1500,1500,A
+2017,Mar,Mar 2017,小步亲子,Early Childhood Edu.,200,200,Seed/Angel
+2018,Mar,Mar 2018,小步亲子,Early Childhood Edu.,1300,1300,Pre-A
+2014,Aug,Aug 2014,弹吧钢琴,Holistic Edu.,200,200,Seed/Angel
+2015,Nov,Nov 2015,弹吧钢琴,Holistic Edu.,1274,1274,A
+2017,Jul,Jul 2017,棕榈大道,Study Abroad Services,1360,1360,A
+2016,Sep,Sep 2016,万趣空间,Early Childhood Edu.,1300,1300,Seed/Angel
+2014,Jul,Jul 2014,魔方英语,Language Learning,1300,1300,A
+2014,Dec,Dec 2014,职业梦,Vocational Edu.,1300,1300,A
+2014,Oct,Oct 2014,自化创意,Vocational Edu.,1300,1300,Seed/Angel
+2018,Apr,Apr 2018,英语小神童,Language Learning,1300,1300,Pre-A
+2018,May,May 2018,作文纸条,K12,1300,1300,Seed/Angel
+2015,May,May 2015,知米英语,Language Learning,1274,1274,Pre-A
+2015,Aug,Aug 2015,条条,K12,1274,1274,Seed/Angel
+2015,Apr,Apr 2015,选课网,Others,1274,1274,A
+2017,Dec,Dec 2017,微早教,Early Childhood Edu.,1000,1000,Pre-A
+2017,May,May 2017,微早教,Early Childhood Edu.,200,200,Seed/Angel
+2015,Oct,Oct 2015,口袋题库,Higher Edu.,1000,1000,A
+2015,Sep,Sep 2015,口袋题库,Higher Edu.,200,200,Seed/Angel
+2017,Dec,Dec 2017,美悦钢琴,Holistic Edu.,1200,1200,Pre-A
+2015,Nov,Nov 2015,手艺网,Holistic Edu.,1000,1000,Pre-A
+2015,Sep,Sep 2015,手艺网,Holistic Edu.,200,200,Seed/Angel
+2016,Sep,Sep 2016,新节奏,Holistic Edu.,1100,1100,Pre-A
+2018,Jun,Jun 2018,五六点教育,Early Childhood Edu.,1100,1100,A
+2016,May,May 2016,康康网络,Paid Knowledge,1100,1100,A
+2016,Dec,Dec 2016,编玩边学,STEAM,80,80,Seed/Angel
+2017,Apr,Apr 2017,编玩边学,STEAM,1000,1000,Seed/Angel
+2016,May,May 2016,地心引力新媒体工场,Vocational Edu.,1050,1050,Seed/Angel
+2017,Dec,Dec 2017,环球优学,K12,1020,1020,PE
+2015,Nov,Nov 2015,callcall教师,K12,1000,1000,Seed/Angel
+2017,Dec,Dec 2017,日本村,Language Learning,1000,1000,Pre-A
+2018,Jun,Jun 2018,知识圈,Paid Knowledge,1000,1000,Pre-A
+2018,Jun,Jun 2018,华罗庚网校,K12,1000,1000,Seed/Angel
+2017,Oct,Oct 2017,优读书院,K12,1000,1000,Pre-A
+2017,Nov,Nov 2017,游美国际,Study Abroad Services,1000,1000,Pre-A
+2014,Jul,Jul 2014,爱语吧,Language Learning,1000,1000,A
+2015,Nov,Nov 2015,喵爪,STEAM,1000,1000,Pre-A
+2018,Jun,Jun 2018,贝乐虎,Early Childhood Edu.,1000,1000,Pre-A
+2017,Jan,Jan 2017,CC英语,Language Learning,1000,1000,A
+2017,Dec,Dec 2017,海帆亲子游泳,Early Childhood Edu.,1000,1000,A
+2018,Jun,Jun 2018,UPRO,Holistic Edu.,1000,1000,Seed/Angel
+2016,Sep,Sep 2016,微视酷科技,Edu. Informationization,1000,1000,Pre-A
+2016,Dec,Dec 2016,大嘴外教,Language Learning,1000,1000,Pre-A
+2018,Jun,Jun 2018,极客教育,STEAM,1000,1000,Seed/Angel
+2018,Jun,Jun 2018,十六进制科技,Edu. Informationization,1000,1000,Pre-A
+2017,Nov,Nov 2017,皓石教育,Study Abroad Services,1000,1000,Pre-A
+2017,Sep,Sep 2017,云外教,Language Learning,1000,1000,Seed/Angel
+2017,Jan,Jan 2017,画吧,Holistic Edu.,1000,1000,Pre-A
+2016,Jun,Jun 2016,掌柜攻略,Vocational Edu.,1000,1000,Pre-A
+2014,Oct,Oct 2014,佳一教育,K12,1000,1000,A
+2017,Jan,Jan 2017,北京市新府学外国语学校,K12,1000,1000,A
+2017,Dec,Dec 2017,勺子课堂,Vocational Edu.,1000,1000,Pre-A
+2014,Sep,Sep 2014,米科互动,K12,1000,1000,Seed/Angel
+2018,Jun,Jun 2018,悉之教育,K12,1000,1000,Seed/Angel
+2014,Jul,Jul 2014,麦可网,Vocational Edu.,1000,1000,A
+2017,Dec,Dec 2017,3E口语,Language Learning,1000,1000,PE
+2016,Aug,Aug 2016,8只小猪,Study Abroad Services,1000,1000,Pre-A
+2017,Apr,Apr 2017,小钱班克,Holistic Edu.,1000,1000,Seed/Angel
+2018,Jun,Jun 2018,优志愿,K12,1000,1000,A+
+2017,May,May 2017,布卡互动,Edu. SaaS,1000,1000,Pre-A
+2014,Nov,Nov 2014,陪读学堂,K12,1000,1000,A
+2014,Oct,Oct 2014,句酷批改网,Language Learning,1000,1000,A
+2015,Oct,Oct 2015,琅琅,Language Learning,1000,1000,A
+2014,Jul,Jul 2014,AR学校,Early Childhood Edu.,1000,1000,Pre-A
+2014,Aug,Aug 2014,元子/千鱼教育,Early Childhood Edu.,1000,1000,Seed/Angel
+2016,Jun,Jun 2016,凯恩备考,Language Learning,1000,1000,Seed/Angel
+2017,Jan,Jan 2017,云舒写,Edu. Informationization,1000,1000,A
+2017,Dec,Dec 2017,泛艺学苑,Vocational Edu.,1000,1000,Pre-A
+2016,Oct,Oct 2016,爱贝睿,Holistic Edu.,1000,1000,Pre-A
+2015,Nov,Nov 2015,辅导团,K12,1000,1000,A
+2014,Nov,Nov 2014,奇迹曼特,Vocational Edu.,1000,1000,Undiscloused
+2017,Nov,Nov 2017,人人讲,Edu. SaaS,1000,1000,Pre-A
+2018,Jun,Jun 2018,乐学习,Language Learning,1000,1000,Pre-A
+2016,Nov,Nov 2016,学点云,Edu. Informationization,1000,1000,Pre-A
+2014,May,May 2014,爱考拉,K12,1000,1000,A
+2014,Apr,Apr 2014,每日瑜伽,Holistic Edu.,1000,1000,Seed/Angel
+2016,Jun,Jun 2016,百年英才,K12,1000,1000,A
+2016,Nov,Nov 2016,成都儿童团,Study Abroad Services,1000,1000,Strategic Investment
+2015,Sep,Sep 2015,呼叫老师,K12,1000,1000,Seed/Angel
+2017,Mar,Mar 2017,丫哥,Early Childhood Edu.,1000,1000,Pre-A
+2017,Jun,Jun 2017,人人助学,Edu. Informationization,1000,1000,Seed/Angel
+2017,Jun,Jun 2017,触控未来,Edu. Informationization,1000,1000,Seed/Angel
+2016,May,May 2016,最库教育,K12,1000,1000,Pre-A
+2016,Jan,Jan 2016,梦芽教育,Early Childhood Edu.,1000,1000,A
+2017,Feb,Feb 2017,萝卜屯,STEAM,1000,1000,Seed/Angel
+2017,Sep,Sep 2017,创数教育,K12,1000,1000,A
+2018,Mar,Mar 2018,爱上学习,Vocational Edu.,1000,1000,Strategic Investment
+2016,Apr,Apr 2016,英盛网,Vocational Edu.,1000,1000,A
+2015,Nov,Nov 2015,非常大脑,Holistic Edu.,1000,1000,Seed/Angel
+2016,Dec,Dec 2016,未来偶像,Holistic Edu.,900,900,A
+2016,Jul,Jul 2016,迪殊教育,Vocational Edu.,900,900,Seed/Angel
+2016,Feb,Feb 2016,Master 达人,Holistic Edu.,900,900,Pre-A
+2018,Mar,Mar 2018,随我学,Holistic Edu.,800,800,Seed/Angel
+2018,Mar,Mar 2018,母婴行业观察,Early Childhood Edu.,800,800,Seed/Angel
+2016,Nov,Nov 2016,DreambigCareer来者教育,Study Abroad Services,800,800,Pre-A
+2017,May,May 2017,考试星,Vocational Edu.,200,200,Seed/Angel
+2018,Jun,Jun 2018,考试星,Vocational Edu.,600,600,Pre-A
+2018,Mar,Mar 2018,新爵科技,Early Childhood Edu.,800,800,Pre-A
+2017,Dec,Dec 2017,爱思益,Study Abroad Services,800,800,Pre-A
+2018,May,May 2018,外滩教育,Holistic Edu.,800,800,Pre-A
+2018,Mar,Mar 2018,核桃编程,STEAM,800,800,Pre-A
+2018,Feb,Feb 2018,强棒,Holistic Edu.,800,800,Seed/Angel
+2015,Nov,Nov 2015,游子曰,Study Abroad Services,800,800,A
+2016,Nov,Nov 2016,KC童趣,Paid Knowledge,770,770,Seed/Angel
+2018,Apr,Apr 2018,中凯国际,Holistic Edu.,750,750,Private Placement of Share
+2016,May,May 2016,插坐学院,Vocational Edu.,700,700,Pre-A
+2017,Oct,Oct 2017,根号教育,Edu. SaaS,700,700,Seed/Angel
+2014,Apr,Apr 2014,米豆科技,Study Abroad Services,650,650,Seed/Angel
+2015,Oct,Oct 2015,社交新语,Language Learning,637,637,Seed/Angel
+2017,Oct,Oct 2017,艺狗盒子,STEAM,600,600,Seed/Angel
+2016,Jul,Jul 2016,真学文化,Holistic Edu.,600,600,Seed/Angel
+2015,Oct,Oct 2015,好家长,K12,600,600,Seed/Angel
+2016,May,May 2016,叫师网,K12,600,600,Seed/Angel
+2018,Apr,Apr 2018,小袋鼠艺术,Holistic Edu.,600,600,A
+2017,Sep,Sep 2017,音乐而聚,Holistic Edu.,520,520,Seed/Angel
+2015,Sep,Sep 2015,宝贝走天下,Early Childhood Edu.,500,500,Seed/Angel
+2015,Sep,Sep 2015,艺友网,Holistic Edu.,500,500,Seed/Angel
+2017,Jun,Jun 2017,量子学派,Edu. Informationization,500,500,Seed/Angel
+2015,Sep,Sep 2015,拼班,Others,500,500,Seed/Angel
+2018,Jan,Jan 2018,睿小麟,Language Learning,500,500,Seed/Angel
+2015,Sep,Sep 2015,童玩儿,Early Childhood Edu.,500,500,Seed/Angel
+2017,Mar,Mar 2017,豹变老板,Vocational Edu.,500,500,Seed/Angel
+2017,Dec,Dec 2017,比邻星,K12,500,500,PE
+2018,May,May 2018,HelloCode,STEAM,500,500,Seed/Angel
+2018,May,May 2018,JORNCO匠客,STEAM,500,500,Pre-A
+2015,Sep,Sep 2015,坏男孩学院,Holistic Edu.,500,500,Seed/Angel
+2016,Apr,Apr 2016,音乐e家,Holistic Edu.,500,500,Seed/Angel
+2018,Mar,Mar 2018,小豆伴,Early Childhood Edu.,500,500,Seed/Angel
+2018,Jun,Jun 2018,大思码,STEAM,500,500,Seed/Angel
+2018,Jun,Jun 2018,博鸟绘本,Early Childhood Edu.,500,500,Seed/Angel
+2016,Jan,Jan 2016,袋鼠先生,Early Childhood Edu.,500,500,Seed/Angel
+2018,May,May 2018,唱唱启蒙英语,Language Learning,500,500,Seed/Angel
+2015,Jul,Jul 2015,约教,K12,500,500,Seed/Angel
+2016,Oct,Oct 2016,学问Live,Higher Edu.,500,500,Seed/Angel
+2018,May,May 2018,口袋鼠,K12,500,500,Seed/Angel
+2017,Apr,Apr 2017,空天量子,K12,500,500,Seed/Angel
+2018,Mar,Mar 2018,有度国际教育,Study Abroad Services,492,492,Seed/Angel
+2015,Aug,Aug 2015,贝贝单词,Language Learning,200,200,Seed/Angel
+2016,Jan,Jan 2016,贝贝单词,Language Learning,200,200,Pre-A
+2015,Sep,Sep 2015,小牛学堂,Vocational Edu.,400,400,Pre-A
+2015,Dec,Dec 2015,高考圈,K12,200,200,Seed/Angel
+2016,Mar,Mar 2016,高考圈,K12,200,200,Pre-A
+2017,Apr,Apr 2017,艺学汇,Holistic Edu.,400,400,Seed/Angel
+2017,Dec,Dec 2017,高兴的小鸟,Early Childhood Edu.,400,400,Seed/Angel
+2015,Sep,Sep 2015,多宝APP,Early Childhood Edu.,400,400,Seed/Angel
+2018,Apr,Apr 2018,小贝尔实验室,STEAM,400,400,Seed/Angel
+2017,Aug,Aug 2017,互联派,Vocational Edu.,200,200,Pre-A
+2017,Mar,Mar 2017,互联派,Vocational Edu.,200,200,Seed/Angel
+2015,Sep,Sep 2015,陪你练,Holistic Edu.,382,382,Seed/Angel
+2017,Feb,Feb 2017,随时随课,Vocational Edu.,357,357,Seed/Angel
+2015,Jul,Jul 2015,蛋白APP-光合邦,Others,350,350,Seed/Angel
+2017,Oct,Oct 2017,静医生,Early Childhood Edu.,350,350,Seed/Angel
+2015,Jul,Jul 2015,典阅科技,Vocational Edu.,323,323,Seed/Angel
+2017,Nov,Nov 2017,学程无忧,K12,300,300,Seed/Angel
+2015,Jul,Jul 2015,优思家教,K12,300,300,Seed/Angel
+2016,Jul,Jul 2016,英晨国际,Holistic Edu.,300,300,Seed/Angel
+2015,Jul,Jul 2015,邻师,K12,300,300,Seed/Angel
+2017,Mar,Mar 2017,贝贝帮,K12,300,300,Undiscloused
+2016,Dec,Dec 2016,播米亲子,Early Childhood Edu.,300,300,Seed/Angel
+2018,Feb,Feb 2018,南博教育,Edu. Informationization,300,300,Seed/Angel
+2017,Jul,Jul 2017,华蒙星体育,Holistic Edu.,100,100,Seed/Angel
+2018,Jan,Jan 2018,华蒙星体育,Holistic Edu.,200,200,A
+2018,Apr,Apr 2018,中公教育,Vocational Edu.,300,300,Seed/Angel
+2014,Dec,Dec 2014,QLL快速语言学习,Language Learning,292.5,292.5,A
+2014,Apr,Apr 2014,ChaseFuture,Study Abroad Services,260,260,Seed/Angel
+2016,Jan,Jan 2016,弹弹,Holistic Edu.,250,250,Seed/Angel
+2015,Oct,Oct 2015,好老师联盟,K12,200,200,Seed/Angel
+2015,Oct,Oct 2015,宝贝玩啥,Early Childhood Edu.,200,200,Seed/Angel
+2015,Sep,Sep 2015,小海豚上门早教,Early Childhood Edu.,200,200,Seed/Angel
+2015,Oct,Oct 2015,小小牛,Early Childhood Edu.,200,200,Seed/Angel
+2017,Aug,Aug 2017,offer先生/先胜科技,Vocational Edu.,200,200,Seed/Angel
+2017,May,May 2017,小熊吉他,Holistic Edu.,200,200,Seed/Angel
+2014,Mar,Mar 2014,好外教,Language Learning,200,200,Seed/Angel
+2017,Nov,Nov 2017,无学网络,Edu. SaaS,200,200,Seed/Angel
+2014,Apr,Apr 2014,万门大学,Vocational Edu.,200,200,Undiscloused
+2018,Jun,Jun 2018,琴伴,Holistic Edu.,200,200,Seed/Angel
+2017,Feb,Feb 2017,影享上大学,Higher Edu.,200,200,Seed/Angel
+2018,May,May 2018,才鹿,Others,200,200,Seed/Angel
+2017,Feb,Feb 2017,厦门斜杠,Vocational Edu.,200,200,Seed/Angel
+2015,Jun,Jun 2015,校鹿,Study Abroad Services,200,200,Seed/Angel
+2017,Nov,Nov 2017,啊哈编程,STEAM,200,200,Seed/Angel
+2018,Jun,Jun 2018,青蚕教育,Edu. Informationization,200,200,Seed/Angel
+2017,Jun,Jun 2017,家长慕课,Paid Knowledge,200,200,Seed/Angel
+2018,Jan,Jan 2018,聚思教育,Holistic Edu.,200,200,Seed/Angel
+2014,Aug,Aug 2014,实验楼,Vocational Edu.,200,200,Seed/Angel
+2017,May,May 2017,百造教育PACEE派希,Holistic Edu.,200,200,Seed/Angel
+2018,Jan,Jan 2018,爱来课,Edu. SaaS,200,200,Seed/Angel
+2018,Feb,Feb 2018,谷力天空,Holistic Edu.,200,200,Seed/Angel
+2018,Jun,Jun 2018,睿刻教育,Edu. Informationization,200,200,Seed/Angel
+2017,Dec,Dec 2017,新生涯,K12,200,200,Seed/Angel
+2016,Oct,Oct 2016,图样单词,Language Learning,200,200,Seed/Angel
+2015,Sep,Sep 2015,新新家长,K12,200,200,Seed/Angel
+2015,Aug,Aug 2015,蒲公英-博雅创智,Language Learning,200,200,Seed/Angel
+2015,Aug,Aug 2015,babycan,Early Childhood Edu.,200,200,Pre-A
+2018,May,May 2018,起向教育,Vocational Edu.,200,200,Seed/Angel
+2017,Apr,Apr 2017,GitChat码字科技,Vocational Edu.,200,200,Seed/Angel
+2015,Aug,Aug 2015,幼儿邦,Early Childhood Edu.,200,200,Seed/Angel
+2014,Jul,Jul 2014,学吧教育,K12,200,200,Seed/Angel
+2014,Jun,Jun 2014,闻题鸟TiBird,K12,200,200,Seed/Angel
+2015,Nov,Nov 2015,取暖,Holistic Edu.,200,200,Seed/Angel
+2018,Mar,Mar 2018,园小豆,Edu. SaaS,200,200,Seed/Angel
+2017,Aug,Aug 2017,天津培育空间教育,Early Childhood Edu.,200,200,Seed/Angel
+2018,Jun,Jun 2018,HnR新升力,Early Childhood Edu.,200,200,Seed/Angel
+2017,Jan,Jan 2017,见教传媒,Paid Knowledge,200,200,Seed/Angel
+2018,Apr,Apr 2018,时代教育,Vocational Edu.,200,200,Seed/Angel
+2016,Nov,Nov 2016,学加加,Holistic Edu.,200,200,Seed/Angel
+2015,Aug,Aug 2015,职学帮,K12,200,200,Seed/Angel
+2017,Jun,Jun 2017,学两招,Edu. Informationization,200,200,Seed/Angel
+2018,Feb,Feb 2018,智慧喵,STEAM,200,200,Seed/Angel
+2015,Oct,Oct 2015,搜学宝,Higher Edu.,200,200,Seed/Angel
+2018,Jan,Jan 2018,教宜优,Edu. Informationization,200,200,Seed/Angel
+2018,Apr,Apr 2018,EduCare,Study Abroad Services,200,200,Seed/Angel
+2014,Jun,Jun 2014,英语说,Language Learning,200,200,Seed/Angel
+2017,Feb,Feb 2017,强棒联合,Holistic Edu.,200,200,Seed/Angel
+2015,Sep,Sep 2015,葱课CongAcademy,Higher Edu.,200,200,Seed/Angel
+2018,Jun,Jun 2018,橙色星球,Paid Knowledge,200,200,Seed/Angel
+2018,Jan,Jan 2018,34learning,Vocational Edu.,200,200,Pre-A
+2015,Aug,Aug 2015,弦音科技EUMLab,Holistic Edu.,200,200,Seed/Angel
+2015,Oct,Oct 2015,赛氪-环球竞赛网,Higher Edu.,200,200,Seed/Angel
+2018,Jun,Jun 2018,一码学程,STEAM,200,200,Seed/Angel
+2015,Aug,Aug 2015,提分宝,K12,200,200,Pre-A
+2015,Apr,Apr 2015,骄阳星天纪,Early Childhood Edu.,200,200,Seed/Angel
+2016,Dec,Dec 2016,慧司考,Vocational Edu.,200,200,Seed/Angel
+2017,Oct,Oct 2017,爱培优,K12,200,200,Seed/Angel
+2016,Aug,Aug 2016,米盒,Higher Edu.,200,200,Seed/Angel
+2017,Mar,Mar 2017,东方标准X,Vocational Edu.,200,200,Undiscloused
+2015,Aug,Aug 2015,有师网,K12,200,200,A
+2018,Jun,Jun 2018,麦麦养成教育,Holistic Edu.,200,200,Seed/Angel
+2018,Jun,Jun 2018,又又国学堂,Holistic Edu.,200,200,Seed/Angel
+2015,Oct,Oct 2015,A+课堂,Higher Edu.,200,200,Seed/Angel
+2018,Jan,Jan 2018,幼发拉底教育,Early Childhood Edu.,200,200,Pre-A
+2017,Mar,Mar 2017,口袋家校,Edu. Informationization,200,200,Seed/Angel
+2015,Aug,Aug 2015,于斯课堂,Holistic Edu.,200,200,Seed/Angel
+2014,Mar,Mar 2014,壹枱智能钢琴,Holistic Edu.,200,200,Seed/Angel
+2018,Jun,Jun 2018,丹你耳,Language Learning,200,200,Seed/Angel
+2016,Sep,Sep 2016,奇喵背词,Language Learning,200,200,Seed/Angel
+2015,Oct,Oct 2015,提分威学堂,Language Learning,200,200,Seed/Angel
+2018,May,May 2018,金融先生,Vocational Edu.,200,200,Seed/Angel
+2016,Oct,Oct 2016,奥本未来,Paid Knowledge,200,200,Seed/Angel
+2017,Mar,Mar 2017,巧课力,Early Childhood Edu.,200,200,Seed/Angel
+2014,Jul,Jul 2014,ChineseSkill,Language Learning,200,200,Seed/Angel
+2018,Mar,Mar 2018,奥创熊,STEAM,200,200,Seed/Angel
+2017,Apr,Apr 2017,维欧诺一,Study Abroad Services,200,200,Pre-A
+2018,Apr,Apr 2018,芳汀思,STEAM,200,200,Seed/Angel
+2018,Feb,Feb 2018,首掌教育,Edu. SaaS,200,200,Seed/Angel
+2015,Sep,Sep 2015,米学网,K12,200,200,Seed/Angel
+2014,Sep,Sep 2014,萝卜太辣,STEAM,200,200,Seed/Angel
+2017,Jun,Jun 2017,找辅导,K12,200,200,Seed/Angel
+2017,Apr,Apr 2017,留学府,Study Abroad Services,200,200,Seed/Angel
+2018,May,May 2018,证凯教育,Vocational Edu.,200,200,Seed/Angel
+2014,Mar,Mar 2014,泡面吧,Vocational Edu.,200,200,Seed/Angel
+2016,Oct,Oct 2016,职派,Higher Edu.,200,200,Seed/Angel
+2016,Sep,Sep 2016,首尔教育,Language Learning,200,200,Seed/Angel
+2018,Apr,Apr 2018,炼金术学堂,Vocational Edu.,200,200,Seed/Angel
+2015,Oct,Oct 2015,瑞应书院（找导师）,Higher Edu.,200,200,Seed/Angel
+2015,Apr,Apr 2015,猎掌门,Vocational Edu.,200,200,Seed/Angel
+2017,Jan,Jan 2017,童之趣,Early Childhood Edu.,200,200,Seed/Angel
+2016,Nov,Nov 2016,小河说,Vocational Edu.,200,200,Seed/Angel
+2017,May,May 2017,音熊音乐陪练机器人,Holistic Edu.,200,200,Seed/Angel
+2017,Jun,Jun 2017,湃乐思教育,Holistic Edu.,200,200,Seed/Angel
+2018,Jan,Jan 2018,小编程家,STEAM,200,200,Pre-A
+2018,May,May 2018,英盼教育,Language Learning,200,200,Seed/Angel
+2018,Jan,Jan 2018,蜂巢电子积木,STEAM,200,200,Seed/Angel
+2018,Apr,Apr 2018,守艺科技,Edu. SaaS,200,200,Seed/Angel
+2018,Apr,Apr 2018,符号树,K12,200,200,Seed/Angel
+2014,Apr,Apr 2014,365好老师,K12,200,200,Seed/Angel
+2015,Sep,Sep 2015,糖堂Sweetclass,K12,200,200,Seed/Angel
+2017,Mar,Mar 2017,艺起来小音咖,Holistic Edu.,200,200,Pre-A
+2017,Dec,Dec 2017,iBanker,Vocational Edu.,200,200,Seed/Angel
+2017,Apr,Apr 2017,艺师汇,Holistic Edu.,200,200,Seed/Angel
+2017,Oct,Oct 2017,玛瑞欧教育,Language Learning,200,200,Seed/Angel
+2015,Sep,Sep 2015,孔夫子,Holistic Edu.,200,200,Seed/Angel
+2018,Mar,Mar 2018,思博锐,Vocational Edu.,200,200,Seed/Angel
+2018,Jun,Jun 2018,一起竞赛,K12,200,200,Seed/Angel
+2018,Jun,Jun 2018,一休数学思维,Holistic Edu.,200,200,Seed/Angel
+2018,Mar,Mar 2018,阳阳魔法教育,Language Learning,200,200,Pre-A
+2017,Jul,Jul 2017,优贝甜,Holistic Edu.,180,180,Seed/Angel
+2018,May,May 2018,新时代区块链研究院,Vocational Edu.,150,150,Seed/Angel
+2018,May,May 2018,拉扎斯文化传媒,Vocational Edu.,150,150,Seed/Angel
+2015,Aug,Aug 2015,思享空间,Others,150,150,Seed/Angel
+2015,Aug,Aug 2015,MySIMAX,Others,127,127,Strategic Investment
+2016,Sep,Sep 2016,派希PACEE,Holistic Edu.,100,100,Seed/Angel
+2017,Jul,Jul 2017,校谱网,Study Abroad Services,100,100,Seed/Angel
+2017,May,May 2017,百造学堂,Edu. Informationization,100,100,Seed/Angel
+2016,Sep,Sep 2016,签到荚,Higher Edu.,100,100,Seed/Angel
+2014,Nov,Nov 2014,萌码网,Vocational Edu.,100,100,Seed/Angel
+2018,May,May 2018,预言家,Edu. Informationization,100,100,Seed/Angel
+2017,May,May 2017,淘儿学,K12,100,100,Seed/Angel
+2018,Apr,Apr 2018,知行晓政,Vocational Edu.,100,100,Seed/Angel
+2018,Apr,Apr 2018,编程侠,STEAM,100,100,Seed/Angel
+2018,May,May 2018,团建队长,Vocational Edu.,100,100,Seed/Angel
+2017,May,May 2017,方块熊乐园,Early Childhood Edu.,100,100,Seed/Angel
+2016,Aug,Aug 2016,爸妈搜,Paid Knowledge,100,100,Seed/Angel
+2017,Aug,Aug 2017,宋钊教育,Holistic Edu.,100,100,Seed/Angel
+2014,Sep,Sep 2014,快客,Edu. Informationization,100,100,Seed/Angel
+2018,Mar,Mar 2018,益起玩,Early Childhood Edu.,80,80,Seed/Angel
+2015,Aug,Aug 2015,贝壳单词,Language Learning,50,50,Seed/Angel
+2018,May,May 2018,Vent学堂,Paid Knowledge,30,30,Seed/Angel
+2016,Mar,Mar 2016,校伴,Edu. Informationization,20,20,Seed/Angel
+2015,Jul,Jul 2015,2平米智慧学习桌,Others,20,20,Seed/Angel
+2016,Mar,Mar 2016,爱天教育科技,Language Learning,20,20,Seed/Angel
+2015,Aug,Aug 2015,智慧流,K12,20,20,Seed/Angel
+2016,Mar,Mar 2016,新学说,Paid Knowledge,20,20,Seed/Angel
+2015,Aug,Aug 2015,一维弦机器人,Holistic Edu.,20,20,Seed/Angel
+2016,Mar,Mar 2016,开心药师,Vocational Edu.,20,20,Seed/Angel
+2015,Aug,Aug 2015,陪你学古筝,Holistic Edu.,20,20,Seed/Angel
+2016,Mar,Mar 2016,国卫信安学院,Vocational Edu.,20,20,Seed/Angel
+2016,Mar,Mar 2016,未来王国,Early Childhood Edu.,20,20,Seed/Angel
+2015,Mar,Mar 2015,罗辑思维,Others,0,0,B
+2016,Dec,Dec 2016,联创中控,Higher Edu.,0,0,PE
+2018,May,May 2018,亨嘉之会,Holistic Edu.,0,0,Seed/Angel
+2018,Feb,Feb 2018,旭德教育,K12,0,0,Private Placement of Share
+2017,Mar,Mar 2017,今星秀,Holistic Edu.,0,0,Seed/Angel
+2018,Apr,Apr 2018,魔术先生,Vocational Edu.,0,0,A
+2018,Jun,Jun 2018,51选校网,K12,0,0,Undiscloused
+2018,May,May 2018,求渔学院,Others,0,0,Pre-A
+2018,Jun,Jun 2018,联帮在线,Language Learning,0,0,B
+2018,Jun,Jun 2018,学霸公社,Study Abroad Services,0,0,B+
+2017,Jan,Jan 2017,小马学院,Holistic Edu.,0,0,Undiscloused
+2018,May,May 2018,七天教育,K12,0,0,B
+2018,May,May 2018,慧科集团,Higher Edu.,0,0,D
+2018,May,May 2018,黄埔区块链培训学院,Vocational Edu.,0,0,Seed/Angel
+2015,Mar,Mar 2015,榜样（趣寻网）,K12,0,0,A
+2018,May,May 2018,Biendata,Vocational Edu.,0,0,Seed/Angel
+2014,Sep,Sep 2014,环讯教育,Language Learning,0,0,Undiscloused
+2018,Feb,Feb 2018,风向标教育,K12,0,0,B
+2018,Feb,Feb 2018,100课堂,Language Learning,0,0,Seed/Angel
+2016,Dec,Dec 2016,贝梦宝智育,Early Childhood Edu.,0,0,A
+2018,Feb,Feb 2018,高木学习,K12,0,0,A
+2018,Jan,Jan 2018,煜林教育,Holistic Edu.,0,0,A
+2018,Apr,Apr 2018,小猴科技,Edu. SaaS,0,0,Seed/Angel
+2018,Apr,Apr 2018,趣口才,Holistic Edu.,0,0,Seed/Angel
+2018,Apr,Apr 2018,有道翻译,Language Learning,0,0,Strategic Investment
+2018,Mar,Mar 2018,孩盟国际儿童公馆,Early Childhood Edu.,0,0,A
+2015,Jul,Jul 2015,91外教,Language Learning,0,0,Seed/Angel
+2018,Apr,Apr 2018,快乐世界教育,Early Childhood Edu.,0,0,A
+2014,Aug,Aug 2014,satonline,Language Learning,0,0,Undiscloused
+2018,May,May 2018,圈外同学,Vocational Edu.,0,0,Seed/Angel
+2015,Jul,Jul 2015,我的班,K12,0,0,Seed/Angel
+2018,Jun,Jun 2018,导学号,K12,0,0,C
+2018,Mar,Mar 2018,多知网,Others,0,0,B
+2015,May,May 2015,全球说,Language Learning,0,0,A
+2018,Jun,Jun 2018,派学车,Vocational Edu.,0,0,Strategic Investment
+2015,Jun,Jun 2015,悦宝园,Early Childhood Edu.,0,0,A
+2015,Jul,Jul 2015,记忆便签,K12,0,0,Seed/Angel
+2018,May,May 2018,导学教育,Edu. Informationization,0,0,C
+2018,Jan,Jan 2018,叮当配,Vocational Edu.,0,0,Seed/Angel
+2016,Nov,Nov 2016,兜兜亲子,Early Childhood Edu.,0,0,Seed/Angel
+2017,Jul,Jul 2017,坚小持微课,Language Learning,0,0,Seed/Angel
+2014,May,May 2014,云岭奇光,Early Childhood Edu.,0,0,Seed/Angel
+2016,Nov,Nov 2016,四个爸爸,Holistic Edu.,0,0,Seed/Angel
+2018,Jan,Jan 2018,沃邦国际教育,Language Learning,0,0,Strategic Investment
+2016,Jul,Jul 2016,弘成教育,Higher Edu.,0,0,Pre-IPO
+2018,Apr,Apr 2018,科学家在线,Paid Knowledge,0,0,A
+2018,Mar,Mar 2018,职优你,Vocational Edu.,0,0,C
+2016,Nov,Nov 2016,TMT商学院,Vocational Edu.,0,0,Seed/Angel
+2018,May,May 2018,教渠邦,Others,0,0,Seed/Angel
+2016,Nov,Nov 2016,可爱学,Early Childhood Edu.,0,0,Pre-B
+2016,Dec,Dec 2016,友邻优课,Language Learning,0,0,A
+2018,May,May 2018,校长家科技,Edu. SaaS,0,0,Pre-A
+2018,Jun,Jun 2018,泰克网络实验室,Vocational Edu.,0,0,A
+2018,Jan,Jan 2018,对啊网,Vocational Edu.,0,0,B
+2018,Mar,Mar 2018,智童时光,Early Childhood Edu.,0,0,A
+2016,Oct,Oct 2016,博览网,Vocational Edu.,0,0,Pre-A
+2015,Jul,Jul 2015,口袋自考,Higher Edu.,0,0,Seed/Angel
+2017,Jan,Jan 2017,手韩,Language Learning,0,0,Seed/Angel
+2017,Apr,Apr 2017,私塾家,K12,0,0,B
+2018,May,May 2018,小善科技,Vocational Edu.,0,0,A+
+2015,Mar,Mar 2015,爱赛达课,Language Learning,0,0,A
+2014,Sep,Sep 2014,魔力学院,Language Learning,0,0,Seed/Angel
+2017,May,May 2017,易乐学车,Vocational Edu.,0,0,Seed/Angel
+2018,Feb,Feb 2018,敦善文化,Holistic Edu.,0,0,A
+2017,Jun,Jun 2017,新脑力,Paid Knowledge,0,0,Undiscloused
+2017,Apr,Apr 2017,三立教育,Study Abroad Services,0,0,A+
+2014,Jul,Jul 2014,巨人教育,K12,0,0,Undiscloused
+2015,Mar,Mar 2015,早道日语网校,Language Learning,0,0,Seed/Angel
+2018,Apr,Apr 2018,创豆智能积木,STEAM,0,0,Seed/Angel
+2018,Jan,Jan 2018,纳豆之家,Study Abroad Services,0,0,Seed/Angel
+2018,Apr,Apr 2018,酷码教育,STEAM,0,0,Seed/Angel
+2014,Mar,Mar 2014,展视互动,Edu. SaaS,0,0,B
+2018,May,May 2018,码力玩加,STEAM,0,0,A
+2015,Jul,Jul 2015,樱桃老师,Early Childhood Edu.,0,0,Seed/Angel
+2017,Mar,Mar 2017,唐翰科技,Higher Edu.,0,0,Seed/Angel
+2016,Oct,Oct 2016,心呼吸,Vocational Edu.,0,0,Seed/Angel
+2017,Jun,Jun 2017,优读学院,K12,0,0,Undiscloused
+2018,Jun,Jun 2018,第三学府,Holistic Edu.,0,0,Strategic Investment
+2018,Jun,Jun 2018,贝壳亲子英语,Language Learning,0,0,Seed/Angel
+2018,Jan,Jan 2018,荣校,Edu. SaaS,0,0,Seed/Angel

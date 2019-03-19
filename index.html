@@ -1,0 +1,564 @@
+<html>
+    <head>
+        <style>
+            .arc path {
+                stroke: #fff;
+            }
+
+            body {
+                height: 100%;
+                width: 90%;
+                font-size: 16px;
+                font-family:"avenir next", Arial, sans-serif;
+                background-color:#f5f5f5;
+                color: #FFF;
+                text-align: center;
+                margin: 0 auto;
+            }
+
+            #header {
+                height: 35px;
+                width: 100%;
+                max-height: 35px;
+                margin: 0 auto;
+                margin-bottom: 3%;
+                padding: 0.5% 0% 0.5% 0%;
+                margin-bottom: 0.5%;
+                font-size: 20px;
+                font-family:"avenir next", Arial, sans-serif;
+                font-weight: 500;
+                background-color: #04b9fa;
+                text-align: center;
+                line-height: 40px;
+            }
+
+            #abstract {
+                height: 100px;
+                width: 100%;
+                min-height: 100px;
+                margin: 0 auto;
+                margin-bottom: 0.5%;
+                font-size: 20px;
+                font-family:"avenir next", Arial, sans-serif;
+                background-color: #FFF;
+                text-align: center;
+            }
+
+            #left_abstract {
+                height: 100px;
+                width: 50%;
+                margin: 0 auto;
+                margin-bottom: 0.5%;
+                font-size: 20px;
+                font-family:"avenir next", Arial, sans-serif;
+                background-color: #FFF;
+                line-height: 50px;
+                float: left;
+                position: relative;
+            }
+
+            #top_panel {
+                background-color:#FFF;
+                width: 90%;
+                height: 60px;
+                float: left;
+                position: relative;
+                font-size: 15px;
+                font-weight: 500;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+                box-sizing:border-box;
+                text-align: left;
+            }
+
+            #intro {
+                width: 90%;
+                height: 30px;
+                line-height: 30px;
+                background-color:#FFF;
+                float: left;
+                position: relative;
+                font-size: 13px;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+                color: #666;
+                padding: 0% 0% 0% 4.5%;
+                box-sizing:border-box;
+                text-align: left;
+            }
+
+            #right_abstract {
+                height: 100px;
+                width: 50%;
+                margin: 0 auto;
+                margin-bottom: 0.5%;
+                font-size: 20px;
+                font-family:"avenir next", Arial, sans-serif;
+                font-weight: 500;
+                background-color: #FFF;
+                float: right;
+                position: relative;
+                padding: 0% 3% 0% 3%;
+                box-sizing:border-box;
+            }
+
+            .barchart {
+                height: 100px;
+                width: 50%;
+                margin: 0 auto;
+                margin-bottom: 0.5%;
+                font-size: 20px;
+                font-family:"avenir next", Arial, sans-serif;
+                font-weight: 500;
+                background-color: #FFF;
+                line-height: 50px;
+                float: left;
+                position: relative;
+            }
+
+            #main {
+                height: 95%;
+                width: 100%;
+                margin: 0 auto;
+                font-size: 16px;
+                font-family:"avenir next", Arial, sans-serif;
+                background-color:#f5f5f5;
+        /*          font-weight: 500;*/
+                text-align: left;
+            }
+
+            #left_panel {
+                background-color:#FFF;
+                height: 100%;
+                width: 50%;
+                margin-right: 1%;
+                float: left;
+                position: relative;
+                font-size: 15px;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+                box-sizing:border-box;
+            }
+
+            #upper_left {
+                background-color:#FFF;
+                width: 100%;
+                height: 48%;
+                padding: 2% 0% 0% 5%;
+                float: left;
+                position: relative;
+                font-size: 15px;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+                box-sizing:border-box;
+            }
+
+            #lower_left {
+                background-color:#FFF;
+                width: 100%;
+                height: 48%;
+                padding: 2% 0% 0% 5%;
+                float: left;
+                position: relative;
+                font-size: 15px;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+                box-sizing:border-box;
+            }
+
+            .buffer {
+                background-color:#F5F5F5;
+                width: 100%;
+                height: 1%;
+                clear: both;
+                display: block;
+            }
+
+            .header1 {
+                background-color:#FFF;
+                height: 8%;
+                font-size: 15px;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+            }
+
+            #right_panel {
+                background-color:#FFF;
+                height: 100%;
+                width: 49%;
+                float: left;
+                position: relative;
+                font-size: 15px;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+                box-sizing:border-box;
+            }
+
+            .header2 {
+                background-color:#FFF;
+                height: 6%;
+                padding: 3% 5% 0% 5%;
+                margin-bottom: 1%;
+                float: center;
+                font-size: 15px;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+                box-sizing:border-box;
+            }
+
+            #right_panel_inner {
+                background-color:#FFF;
+                width: 100%;
+                height: 94%;
+                padding: 0% 5% 0 1%;
+                font-size: 15px;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+                overflow-y: auto;
+                vertical-align: middle;
+                float: center;
+                box-sizing:border-box;
+            }
+
+            #smallMulti_outer {
+                background-color:#FFF;
+                width: 100%;
+                height: 94%;
+                padding: 5% 0 0 0;
+                font-size: 15px;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+                overflow-y: auto;
+                vertical-align: middle;
+                float: center;
+                box-sizing:border-box;
+            }
+
+            #smallMulti {
+                background-color:#FFF;
+                max-width: 750px;
+                width: 100%;
+                height: 100%;
+                float: center;
+            }
+
+            #footer {
+                background-color:#FFF;
+                width: 100%;
+                height: 6%;
+                padding: 2% 5% 1% 5%;
+                clear: both;
+                display: block;
+                font-size: 13px;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+                color: #666;
+                box-sizing:border-box;
+            }
+
+            #pyramid {
+                width: 90%;
+                height: 88%;
+                background-color:#FFF;
+                font-size: 12px;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+                position: absolute;
+                float: center;
+                box-sizing:border-box;
+            }
+
+            #piechart {
+                width: 90%;
+                height: 100%;
+                font-size: 12px;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+                position: absolute;
+                float: center;
+            }
+
+            .tooltip {
+                position: absolute;
+                line-height: 1.5;
+                font-weight: 200;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+                padding: 2px;
+                background: rgba(0, 0, 0, 0.7);
+                color: #FFA500;
+                border-radius: 3px;
+                pointer-events: none;
+                font-size: 13px;
+      }
+
+            /*Styling for the lines connecting the labels to the slices*/
+            polyline{
+                stroke: #252525;
+                stroke-width: 1px;
+                fill: none;
+                shape-rendering: geometricPrecision;
+            }
+
+            /* styling for the donut slices*/
+            path {
+                shape-rendering: geometricPrecision;
+            }
+
+            /* Make the percentage on the text labels bold*/
+            .labelName text {
+                font-style: normal;
+                font-weight: 400;
+            }
+
+            /* In biology we generally italicise species names. */
+            .labelName {
+                font-size: 12px;
+                fill:#252525;
+            }
+
+            .line {
+              fill: none;
+              stroke: #999;
+              stroke-width: 1.5px;
+            }
+
+
+            .line-path {
+              fill: none;
+              stroke: #999;
+              stroke-width: 1.5px;
+            }
+
+            .line-mouseover-inner {
+              fill: none;a
+              stroke-width: 1.5px;
+            }
+
+            .shown-line-path {
+              fill: none;
+              stroke: #999;
+              stroke-width: 1.5px;
+            }
+
+            .area {
+              fill: #e7e7e7;
+            }
+
+            .xAxis text {
+              stroke: none;
+              fill: #999;
+              font-size: 11px;
+            }
+
+            .xAxis line{
+              stroke: #e7e7e7;
+              stroke-width: 1.5px;
+            }
+
+            .xAxis path{
+              stroke: #e7e7e7;
+              stroke-width: 1.5px;
+            }
+
+            .yAxis text {
+              stroke: none;
+              fill: #999;
+              font-size: 11px;
+            }
+
+            .yAxis line{
+              stroke: #e7e7e7;
+              stroke-width: 1.5px;
+            }
+
+            .yAxis path{
+              stroke: #e7e7e7;
+              stroke-width: 1.5px;
+            }
+
+            .tooltip {
+                position: absolute;
+                line-height: 1.5;
+                font-weight: 200;
+                font-family:"avenir next", Arial, sans-serif;
+                padding: 5px;
+                background: rgba(0, 0, 0, 0.7);
+                color: #FFA500;
+                border-radius: 3px;
+                pointer-events: none;
+              }
+
+            .tooltip p {
+                border:  1px;
+                padding: 1px;
+                font-size: 12px;
+            }
+
+            .overlay {
+              fill: none;
+              pointer-events: all;
+            }
+
+            .focus circle {
+              fill: #F1F3F3;
+              stroke: #6F257F;
+              stroke-width: 5px;
+            }
+              
+            .hover-line {
+              stroke: #6F257F;
+              stroke-width: 2px;
+              stroke-dasharray: 3,3;
+            }
+
+            #inner_left_panel {
+                width: 2%;
+                height: 100%;
+                float: left;
+                position: relative;
+                background-color:#04b9fa;
+            }
+    
+            #container span {
+                position: relative;
+            }
+
+            #container {
+                width: 93%;
+                height: 100%;
+                position: absolute;
+                height: 20px;
+                left: 5%;
+                top:50%;
+                margin-top: -7px;
+            }
+             
+            #container .check_year {
+                position: absolute;
+                visibility: hidden;
+                text-align: center;
+            }
+             
+            #container .check_year+label {
+                display: inline-block;
+                width: 10px;
+                height: 10px;
+                border: 3px solid #049dec;
+                float: left;
+                margin-right: 3%;
+            }
+             
+            #container .check_year:checked+label:after {
+                content: "";
+                position: absolute;
+                left: 2px;
+                bottom:10px;
+                width: 6px;
+                height: 1px;
+                border: 3px solid #049dec;
+                border-top-color: transparent;
+                border-right-color: transparent;
+                -ms-transform: rotate(-60deg);
+                -moz-transform: rotate(-60deg);
+                -webkit-transform: rotate(-60deg);
+                transform: rotate(-45deg);
+
+            }
+
+            .checkbox_span {
+                width: 20%;
+                height: 20px;
+                font-size: 15px;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+                font-weight: bold;
+                color: #049dec;
+                float: left;
+                line-height: 98%;
+                position: relative;
+            }
+
+            .topic {
+                font-size: 16px;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+                font-weight: bold;
+                color: #049dec;
+            }
+
+            .sub_topic {
+                margin: 5% 0 0 0;
+                font-size: 13px;
+                font-family: 'Helvetica Neue',Arial,freesans,sans-serif;
+                color: #049dec;
+            }
+
+        </style>
+    </head>
+    <body>
+        <div id="header">
+            <h18>China's Edtech Investment</h18>
+        </div>
+        <div id="abstract">
+            <div id="left_abstract">
+                <div id="inner_left_panel">
+                </div>
+                <div id="top_panel">
+                    <div id="container">
+                        <span class="checkbox_span" ><input type="checkbox" class="check_year" id="check1" value=2014 checked=checked onclick="updateTotalVis()"><label for="check1"></label> 2014 </span>
+                        <span class="checkbox_span" ><input type="checkbox" class="check_year" id="check2" value=2015 checked=checked onclick="updateTotalVis()"><label for="check2"></label> 2015 </span>
+                        <span class="checkbox_span" ><input type="checkbox" class="check_year" id="check3" value=2016 checked=checked onclick="updateTotalVis()"><label for="check3"></label> 2016 </span>
+                        <span class="checkbox_span" ><input type="checkbox" class="check_year" id="check4" value=2017 checked=checked onclick="updateTotalVis()"><label for="check4"></label> 2017 </span>
+                        <span class="checkbox_span" ><input type="checkbox" class="check_year" id="check5" value=2018 checked=checked onclick="updateTotalVis()"><label for="check5"></label> 2018H1 </span>
+                    </div>  
+                </div>
+                <div id="intro">
+                    <span>Notes: Tick the years you want and click the pyramid further to explore more.</span>
+                </div>   
+            </div>
+            <div id="right_abstract">
+                <div id="barchartSum" class="barchart">
+                </div>
+                <div id="barchartCount" class="barchart">
+                </div>
+            </div> 
+        </div>
+        <div id="main">
+            <div id="left_panel">
+                <div id="upper_left">
+                    <div class="header1">
+                        <span class="topic">Edtech Investment Pyramid</span>
+                    </div>
+                    <div id="pyramid">    
+                    </div>
+                </div>
+                <div class="buffer" >
+                    &nbsp;
+                </div>
+                <div id="lower_left">
+                    <div class="header1">
+                        <span class="topic">Edtech Investment By Sub-Market</span>
+                    </div> 
+                    <div id="piechart">
+                    </div> 
+                </div>
+
+            </div>
+            <div id="right_panel">
+                <div id="right_panel_inner">
+                    <div class="header2">
+                        <span class="topic">Top Investment Deals</span>
+                        <br>
+                    </div>
+                    <div id="smallMulti_outer">
+                        <div id="smallMulti"></div>
+                    </div>
+                </div>
+                <div id="footer">
+                    <span>Notes: Companies are ranked based on investments within the range of ticked years.</span>
+                </div>
+            </div> 
+        </div>
+             
+        <script src="d3.v4.min.js"></script>
+        <script src="colorbrewer.js"></script>
+        <script src="barchart.js"></script>
+        <script src="pyramid.js"></script>
+        <script src="pyramidCase.js"></script>
+        <script src="pie.js"></script>
+        <script src="smallMulti.js"></script>
+        <script type="text/javascript">
+            function updateTotalVis () {
+                updatePyramid();
+                updatePie([1,1000],'Total');
+                updateMulti();
+            }
+        </script>
+
+    </body>
+</html>
